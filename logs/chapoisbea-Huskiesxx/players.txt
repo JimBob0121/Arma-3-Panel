@@ -1,0 +1,687 @@
+<b>[11-11-2019 04:02:30 AM] Rin has edited Rin Helsing(76561198093375356) Stats! OLD - Bank: 400000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 5</b>
+<b>[11-11-2019 04:02:30 AM] Rin has edited Rin Helsing(76561198093375356) Stats! NEW - Bank: 400000 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 5</b>
+<b>[11-11-2019 03:59:11 AM] Rin has edited Rin Helsing(76561198093375356) Stats! OLD - Bank: 400000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 5</b>
+<b>[11-11-2019 03:59:11 AM] Rin has edited Rin Helsing(76561198093375356) Stats! NEW - Bank: 400000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 5</b>
+<b>[11-11-2019 03:58:21 AM] Rin has edited Rin Helsing(76561198093375356) Stats! OLD - Bank: 400000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 5</b>
+<b>[11-11-2019 03:58:21 AM] Rin has edited Rin Helsing(76561198093375356) Stats! NEW - Bank: 400000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 5</b>
+<b>[11-11-2019 03:57:54 AM] Rin has edited Rin Helsing(76561198093375356) Stats! OLD - Bank: 400000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 5</b>
+<b>[11-11-2019 03:57:54 AM] Rin has edited Rin Helsing(76561198093375356) Stats! NEW - Bank: 400000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 5</b>
+<b>[11-11-2019 03:57:47 AM] Rin has edited Rin Helsing(76561198093375356) Stats! OLD - Bank: 400000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 5</b>
+<b>[11-11-2019 03:57:47 AM] Rin has edited Rin Helsing(76561198093375356) Stats! NEW - Bank: 400000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 5</b>
+<b>[11-11-2019 03:57:38 AM] Rin has edited Rin Helsing(76561198093375356) Stats! OLD - Bank: 40000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 5</b>
+<b>[11-11-2019 03:57:38 AM] Rin has edited Rin Helsing(76561198093375356) Stats! NEW - Bank: 400000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 5</b>
+<b>[11-11-2019 03:52:06 AM] Rin has edited Rin Helsing(76561198093375356) Stats! OLD - Bank: 40000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 5</b>
+<b>[11-11-2019 03:52:06 AM] Rin has edited Rin Helsing(76561198093375356) Stats! NEW - Bank: 400000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 5</b>
+<b>[23-07-2019 04:26:08 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 20350 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[23-07-2019 04:26:08 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 180350 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+[23-07-2019 03:35:54 AM] Haywood has edited [NATO] Pfc. J. Summers(76561198274290072) Stats! OLD - Bank: 80000 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 0
+[23-07-2019 03:35:54 AM] Haywood has edited [NATO] Pfc. J. Summers(76561198274290072) Stats! NEW - Bank: 80000 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 0
+[23-07-2019 03:34:36 AM] Alek Belokov has edited [APD] Sgt. A. Baker(76561198152357092) Stats! OLD - Bank: 80000 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 1
+[23-07-2019 03:34:36 AM] Alek Belokov has edited [APD] Sgt. A. Baker(76561198152357092) Stats! NEW - Bank: 80000 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 2
+[23-07-2019 03:34:13 AM] Alek Belokov has edited [APD] Sgt. A. Baker(76561198152357092) Stats! OLD - Bank: 80000 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 0
+[23-07-2019 03:34:13 AM] Alek Belokov has edited [APD] Sgt. A. Baker(76561198152357092) Stats! NEW - Bank: 80000 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 1
+[23-07-2019 03:32:22 AM] Haywood has edited Jake Summers(76561198274290072) Stats! OLD - Bank: 80000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[23-07-2019 03:32:22 AM] Haywood has edited Jake Summers(76561198274290072) Stats! NEW - Bank: 80000 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 0
+[23-07-2019 03:29:25 AM] John Silver has edited [APD] Sgt. A. Baker(76561198152357092) Stats! OLD - Bank: 80000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[23-07-2019 03:29:25 AM] John Silver has edited [APD] Sgt. A. Baker(76561198152357092) Stats! NEW - Bank: 80000 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 
+[23-07-2019 03:21:02 AM] Alek Belokov has edited [TMP] Pvt. J. Lesniewski(76561198134446847) Stats! OLD - Bank: 239614 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 0
+[23-07-2019 03:21:02 AM] Alek Belokov has edited [TMP] Pvt. J. Lesniewski(76561198134446847) Stats! NEW - Bank: 239614 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 0
+[23-07-2019 03:04:56 AM] Alek Belokov has edited [NATO] Cpl. J Reddington(76561198404773914) Stats! OLD - Bank: 271240 | Cash: 36513 | Medic: 0 | Cop: 5 | Admin: 3
+[23-07-2019 03:04:56 AM] Alek Belokov has edited [NATO] Cpl. J Reddington(76561198404773914) Stats! NEW - Bank: 271240 | Cash: 36513 | Medic: 0 | Cop: 5 | Admin: 3
+[23-07-2019 02:39:53 AM] Alek Belokov has edited Kyle Wayne(76561198041912322) Stats! OLD - Bank: 171383 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[23-07-2019 02:39:53 AM] Alek Belokov has edited Kyle Wayne(76561198041912322) Stats! NEW - Bank: 171383 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 1
+[23-07-2019 02:39:39 AM] brandon has edited [NATO] Cpl. A. Belokov(76561198075021625) Stats! OLD - Bank: 1475247 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 4
+[23-07-2019 02:39:39 AM] brandon has edited [NATO] Cpl. A. Belokov(76561198075021625) Stats! NEW - Bank: 1475247 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5
+[23-07-2019 02:35:43 AM] Jason Smith has edited [NATO] Pfc. T. Ambushe(76561198353127618) Stats! OLD - Bank: 886026 | Cash: 0 | Medic: 5 | Cop: 2 | Admin: 0
+[23-07-2019 02:35:43 AM] Jason Smith has edited [NATO] Pfc. T. Ambushe(76561198353127618) Stats! NEW - Bank: 886026 | Cash: 0 | Medic: 5 | Cop: 5 | Admin: 
+[23-07-2019 02:26:43 AM] Jason Smith has edited Marcus Manarello(76561198161941338) Stats! OLD - Bank: 158744 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 0
+[23-07-2019 02:26:43 AM] Jason Smith has edited Marcus Manarello(76561198161941338) Stats! NEW - Bank: 158744 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 
+[23-07-2019 02:25:50 AM] Jason Smith has edited [NATO] Cpl. R. DeYoung(76561198109351716) Stats! OLD - Bank: 134508 | Cash: 0 | Medic: 0 | Cop: 3 | Admin: 0
+[23-07-2019 02:25:50 AM] Jason Smith has edited [NATO] Cpl. R. DeYoung(76561198109351716) Stats! NEW - Bank: 134508 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 
+[23-07-2019 02:25:11 AM] Jason Smith has edited [TMP] Col. K. Gunz(76561198070796952) Stats! OLD - Bank: 9452565 | Cash: 230450 | Medic: 5 | Cop: 10 | Admin: 0
+[23-07-2019 02:25:11 AM] Jason Smith has edited [TMP] Col. K. Gunz(76561198070796952) Stats! NEW - Bank: 9452565 | Cash: 230450 | Medic: 5 | Cop: 10 | Admin: 
+[23-07-2019 02:24:30 AM] Jason Smith has edited [TMP] Sgt. C.Wilson(76561198076621729) Stats! OLD - Bank: 607620 | Cash: 15 | Medic: 0 | Cop: 4 | Admin: 0
+[23-07-2019 02:24:30 AM] Jason Smith has edited [TMP] Sgt. C.Wilson(76561198076621729) Stats! NEW - Bank: 607620 | Cash: 15 | Medic: 0 | Cop: 5 | Admin: 
+[23-07-2019 02:23:55 AM] Jason Smith has edited [TMP] Pvt. A. Booth(76561198041001394) Stats! OLD - Bank: 24602 | Cash: 846 | Medic: 5 | Cop: 1 | Admin: 1
+[23-07-2019 02:23:55 AM] Jason Smith has edited [TMP] Pvt. A. Booth(76561198041001394) Stats! NEW - Bank: 24602 | Cash: 846 | Medic: 5 | Cop: 2 | Admin: 
+[23-07-2019 02:22:13 AM] Jason Smith has edited [TMP] Gen D. Wolffe(76561198125086726) Stats! OLD - Bank: 638326 | Cash: 3902 | Medic: 0 | Cop: 10 | Admin: 0
+[23-07-2019 02:22:13 AM] Jason Smith has edited [TMP] Gen D. Wolffe(76561198125086726) Stats! NEW - Bank: 638326 | Cash: 3902 | Medic: 0 | Cop: 10 | Admin: 
+[23-07-2019 02:21:48 AM] Jason Smith has edited [TMP] Gen D. Wolffe(76561198125086726) Stats! OLD - Bank: 638326 | Cash: 3902 | Medic: 0 | Cop: 8 | Admin: 0
+[23-07-2019 02:21:48 AM] Jason Smith has edited [TMP] Gen D. Wolffe(76561198125086726) Stats! NEW - Bank: 638326 | Cash: 3902 | Medic: 0 | Cop: 10 | Admin: 
+[23-07-2019 02:07:35 AM] John Silver has edited [TMP] SSgt. A. Authento(76561198143613231) Stats! OLD - Bank: 22404 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 1
+[23-07-2019 02:07:35 AM] John Silver has edited [TMP] SSgt. A. Authento(76561198143613231) Stats! NEW - Bank: 22404 | Cash: 0 | Medic: 0 | Cop: 6 | Admin: 
+[23-07-2019 02:07:10 AM] John Silver has edited [TMP] Col. K. Gunz(76561198070796952) Stats! OLD - Bank: 9452565 | Cash: 230450 | Medic: 5 | Cop: 10 | Admin: 0
+[23-07-2019 02:07:10 AM] John Silver has edited [TMP] Col. K. Gunz(76561198070796952) Stats! NEW - Bank: 3452565 | Cash: 230450 | Medic: 5 | Cop: 10 | Admin: 
+[23-07-2019 02:06:39 AM] John Silver has edited [TMP] Col. K. Gunz(76561198070796952) Stats! OLD - Bank: 9452565 | Cash: 230450 | Medic: 5 | Cop: 10 | Admin: 0
+[23-07-2019 02:06:39 AM] John Silver has edited [TMP] Col. K. Gunz(76561198070796952) Stats! NEW - Bank: 2452565 | Cash: 230450 | Medic: 5 | Cop: 10 | Admin: 
+[23-07-2019 02:06:19 AM] John Silver has edited [NATO] Pfc. R. DeYoung(76561198109351716) Stats! OLD - Bank: 134508 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 0
+[23-07-2019 02:06:19 AM] John Silver has edited [NATO] Pfc. R. DeYoung(76561198109351716) Stats! NEW - Bank: 134508 | Cash: 0 | Medic: 0 | Cop: 3 | Admin: 
+[Tuesday 23rd of July 2019 01:49:32 AM] brandon has added a note to [TMP] Lt. J. Smith(76561198140151368) Account!
+[23-07-2019 01:48:56 AM] brandon has edited [TMP] Lt. J. Smith(76561198140151368) Stats! OLD - Bank: 7401 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 3
+[23-07-2019 01:48:56 AM] brandon has edited [TMP] Lt. J. Smith(76561198140151368) Stats! NEW - Bank: 500000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 3
+[23-07-2019 01:27:34 AM] John Silver has edited Timmy Wong(76561198273608603) Stats! OLD - Bank: 88229 | Cash: 9250 | Medic: 0 | Cop: 0 | Admin: 0
+[23-07-2019 01:27:34 AM] John Silver has edited Timmy Wong(76561198273608603) Stats! NEW - Bank: 253229 | Cash: 9250 | Medic: 0 | Cop: 0 | Admin: 
+[Tuesday 23rd of July 2019 01:25:04 AM] Alek Belokov has Issued [NATO] Cpt. J. Spencer(76561198293157190) 20 Warning Points. Reason: Staff Disrespect
+[23-07-2019 01:24:00 AM] Ben Jarino has edited [NATO] Cpt. J. Spencer(76561198293157190) Stats! OLD - Bank: 584254 | Cash: 0 | Medic: 0 | Cop: 7 | Admin: 0
+[23-07-2019 01:24:00 AM] Ben Jarino has edited [NATO] Cpt. J. Spencer(76561198293157190) Stats! NEW - Bank: 584254 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[Tuesday 23rd of July 2019 12:57:17 AM] John Silver has Issued Chase mcqueen forehead(76561198202523032) 10 Warning Points. Reason: rdm
+[23-07-2019 12:53:41 AM] John Silver has edited Jack Snowcone(76561198087998875) Stats! OLD - Bank: 105058 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[23-07-2019 12:53:41 AM] John Silver has edited Jack Snowcone(76561198087998875) Stats! NEW - Bank: 205058 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 
+[Tuesday 23rd of July 2019 12:48:21 AM] John Silver has Issued [TMP] Lt. O.Jay(76561198799120969) 20 Warning Points. Reason: rdm
+[23-07-2019 12:47:02 AM] John Silver has edited [TMP] Lt. O.Jay(76561198799120969) Stats! OLD - Bank: 400589 | Cash: 0 | Medic: 0 | Cop: 6 | Admin: 0
+[23-07-2019 12:47:02 AM] John Silver has edited [TMP] Lt. O.Jay(76561198799120969) Stats! NEW - Bank: 400589 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 
+<b>[23-07-2019 12:20:52 AM] Chriss James has edited [TMP] Pvt. C. James(76561198178942257) Stats! OLD - Bank: 74889 | Cash: 1389 | Medic: 0 | Cop: 2 | Admin: 4</b>
+<b>[23-07-2019 12:20:52 AM] Chriss James has edited [TMP] Pvt. C. James(76561198178942257) Stats! NEW - Bank: 74889 | Cash: 1389 | Medic: 0 | Cop: 3 | Admin: </b>
+[Tuesday 23rd of July 2019 12:14:16 AM] John Silver has removed 10 Points from Callum Musk
+[Tuesday 23rd of July 2019 12:12:40 AM] Chriss James has Issued Callum Musk(76561198874228425) 5 Warning Points. Reason: RDM
+[23-07-2019 12:12:38 AM] John Silver has edited Uvuvwevwevwe Ossas(76561198842733654) Stats! OLD - Bank: 1522111 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[23-07-2019 12:12:38 AM] John Silver has edited Uvuvwevwevwe Ossas(76561198842733654) Stats! NEW - Bank: 1622111 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 
+[23-07-2019 12:11:26 AM] John Silver has edited Liam Ossas(76561198385969359) Stats! OLD - Bank: 508936 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[23-07-2019 12:11:26 AM] John Silver has edited Liam Ossas(76561198385969359) Stats! NEW - Bank: 608936 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 
+[23-07-2019 12:11:04 AM] John Silver has edited Uvuvwevwevwe Ossas(76561198842733654) Stats! OLD - Bank: 1511611 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[23-07-2019 12:11:04 AM] John Silver has edited Uvuvwevwevwe Ossas(76561198842733654) Stats! NEW - Bank: 1611611 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 
+[Tuesday 23rd of July 2019 12:10:12 AM] John Silver has Issued Callum Musk(76561198874228425) 5 Warning Points. Reason: rdm
+[23-07-2019 12:09:41 AM] John Silver has edited Huskiii. Richman(76561198425446952) Stats! OLD - Bank: 620423 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[23-07-2019 12:09:41 AM] John Silver has edited Huskiii. Richman(76561198425446952) Stats! NEW - Bank: 820423 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 
+[22-07-2019 11:40:20 PM] Chriss James has edited Oli King(76561198964890242) Stats! OLD - Bank: 36325 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 11:40:20 PM] Chriss James has edited Oli King(76561198964890242) Stats! NEW - Bank: 136325 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 
+<b>[22-07-2019 11:30:40 PM] Alek Belokov has edited [NATO] Cpl. A. Belokov(76561198075021625) Stats! OLD - Bank: 1489217 | Cash: 27071 | Medic: 0 | Cop: 10 | Admin: 4</b>
+<b>[22-07-2019 11:30:40 PM] Alek Belokov has edited [NATO] Cpl. A. Belokov(76561198075021625) Stats! NEW - Bank: 1489217 | Cash: 27071 | Medic: 0 | Cop: 10 | Admin: </b>
+<b>[22-07-2019 11:30:12 PM] Alek Belokov has edited [NATO] Cpl. A. Belokov(76561198075021625) Stats! OLD - Bank: 1489217 | Cash: 27071 | Medic: 0 | Cop: 10 | Admin: 4</b>
+<b>[22-07-2019 11:30:12 PM] Alek Belokov has edited [NATO] Cpl. A. Belokov(76561198075021625) Stats! NEW - Bank: 1489217 | Cash: 27071 | Medic: 0 | Cop: 10 | Admin: </b>
+[22-07-2019 11:19:43 PM] John Silver has edited Drakoy Logas(76561198039231374) Stats! OLD - Bank: 1663878 | Cash: 0 | Medic: 5 | Cop: 5 | Admin: 0
+[22-07-2019 11:19:43 PM] John Silver has edited Drakoy Logas(76561198039231374) Stats! NEW - Bank: 1863878 | Cash: 0 | Medic: 5 | Cop: 5 | Admin: 
+[22-07-2019 11:19:23 PM] John Silver has edited Drakoy Logas(76561198039231374) Stats! OLD - Bank: 1363878 | Cash: 0 | Medic: 5 | Cop: 5 | Admin: 0
+[22-07-2019 11:19:23 PM] John Silver has edited Drakoy Logas(76561198039231374) Stats! NEW - Bank: 1663878 | Cash: 0 | Medic: 5 | Cop: 5 | Admin: 
+[Monday 22nd of July 2019 11:18:23 PM] John Silver has Issued [TMP] PFC. R. Capone(76561198273645911) 5 Warning Points. Reason: NLR
+[22-07-2019 10:59:23 PM] Jason Smith has edited Matt Jonzie(76561198326773085) Stats! OLD - Bank: 408020 | Cash: 0 | Medic: 5 | Cop: 5 | Admin: 0
+[22-07-2019 10:59:23 PM] Jason Smith has edited Matt Jonzie(76561198326773085) Stats! NEW - Bank: 408020 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 
+[22-07-2019 10:47:21 PM] brandon has edited [NATO] G. Trapstar(76561198069712919) Stats! OLD - Bank: 180000 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 0
+[22-07-2019 10:47:21 PM] brandon has edited [NATO] G. Trapstar(76561198069712919) Stats! NEW - Bank: 180000 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 0
+[22-07-2019 10:43:37 PM] brandon has edited George Zahi(76561198069712919) Stats! OLD - Bank: 80000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 10:43:37 PM] brandon has edited George Zahi(76561198069712919) Stats! NEW - Bank: 180000 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 0
+[22-07-2019 10:34:05 PM] John Silver has edited [TMP] Col. K. Gunz(76561198070796952) Stats! OLD - Bank: 9806180 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 0
+[22-07-2019 10:34:05 PM] John Silver has edited [TMP] Col. K. Gunz(76561198070796952) Stats! NEW - Bank: 1000000 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 
+[22-07-2019 10:32:30 PM] John Silver has edited [TMP] Col. K. Gunz(76561198070796952) Stats! OLD - Bank: 9806180 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 0
+[22-07-2019 10:32:30 PM] John Silver has edited [TMP] Col. K. Gunz(76561198070796952) Stats! NEW - Bank: 1000000 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 
+[22-07-2019 10:31:21 PM] John Silver has edited [TMP] Col. K. Gunz(76561198070796952) Stats! OLD - Bank: 9806180 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 0
+[22-07-2019 10:31:21 PM] John Silver has edited [TMP] Col. K. Gunz(76561198070796952) Stats! NEW - Bank: 1000000 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 
+[22-07-2019 10:24:04 PM] John Silver has edited Adam Diaz(76561198058426718) Stats! OLD - Bank: 488771 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 0
+[22-07-2019 10:24:04 PM] John Silver has edited Adam Diaz(76561198058426718) Stats! NEW - Bank: 488771 | Cash: 0 | Medic: 0 | Cop: 3 | Admin: 
+[22-07-2019 10:14:03 PM] John Silver has edited Roman Clancy(76561198273645911) Stats! OLD - Bank: 188147 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 0
+[22-07-2019 10:14:03 PM] John Silver has edited Roman Clancy(76561198273645911) Stats! NEW - Bank: 188147 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 
+[22-07-2019 10:07:28 PM] brandon has edited [TMP] Pfc. J. Spreezy(76561198427415147) Stats! OLD - Bank: 1324903 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 0
+[22-07-2019 10:07:28 PM] brandon has edited [TMP] Pfc. J. Spreezy(76561198427415147) Stats! NEW - Bank: 1324903 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 1
+[22-07-2019 09:53:25 PM] Chriss James has edited Blurr Xas(76561198128922686) Stats! OLD - Bank: 681060 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 09:53:25 PM] Chriss James has edited Blurr Xas(76561198128922686) Stats! NEW - Bank: 781060 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 
+[Monday 22nd of July 2019 09:50:56 PM] John Silver has Issued Adam Diaz(76561198058426718) 30 Warning Points. Reason: RDMING 3 TIMES
+[22-07-2019 09:49:02 PM] Chriss James has edited Oakley Authento(76561198799120969) Stats! OLD - Bank: 330159 | Cash: 0 | Medic: 0 | Cop: 6 | Admin: 0
+[22-07-2019 09:49:02 PM] Chriss James has edited Oakley Authento(76561198799120969) Stats! NEW - Bank: 630159 | Cash: 0 | Medic: 0 | Cop: 6 | Admin: 
+[22-07-2019 09:40:49 PM] John Silver has edited Cole Reiff(76561198304101014) Stats! OLD - Bank: 273 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 09:40:49 PM] John Silver has edited Cole Reiff(76561198304101014) Stats! NEW - Bank: 500273 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 
+[Monday 22nd of July 2019 09:36:19 PM] Chriss James has Issued Rocco Tacco(76561198096873137) 5 Warning Points. Reason: RDM
+[22-07-2019 09:27:45 PM] John Silver has edited Cadan Pearce(76561198009243047) Stats! OLD - Bank: 73500 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 0
+[22-07-2019 09:27:45 PM] John Silver has edited Cadan Pearce(76561198009243047) Stats! NEW - Bank: 573500 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 
+[22-07-2019 09:27:30 PM] John Silver has edited Cadan Pearce(76561198009243047) Stats! OLD - Bank: 73500 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 09:27:30 PM] John Silver has edited Cadan Pearce(76561198009243047) Stats! NEW - Bank: 73500 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 
+[22-07-2019 09:12:39 PM] Ben Jarino has edited Johny hunter(76561198237935076) Stats! OLD - Bank: 1896697 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 09:12:39 PM] Ben Jarino has edited Johny hunter(76561198237935076) Stats! NEW - Bank: 2146697 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 09:09:29 PM] John Silver has edited Adam Diaz(76561198058426718) Stats! OLD - Bank: 310021 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 0
+[22-07-2019 09:09:29 PM] John Silver has edited Adam Diaz(76561198058426718) Stats! NEW - Bank: 310021 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 
+[22-07-2019 09:09:02 PM] John Silver has edited Adam Diaz(76561198058426718) Stats! OLD - Bank: 310021 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 09:09:02 PM] John Silver has edited Adam Diaz(76561198058426718) Stats! NEW - Bank: 310021 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 
+[22-07-2019 09:05:50 PM] pauly has edited Marcus Manarello(76561198161941338) Stats! OLD - Bank: 72804 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 0
+[22-07-2019 09:05:50 PM] pauly has edited Marcus Manarello(76561198161941338) Stats! NEW - Bank: 322804 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 0
+[Monday 22nd of July 2019 08:49:18 PM] AndrewSanderson has Issued Marcus Manarello(76561198161941338) 10 Warning Points. Reason: RDM - https://www.youtube.com/watch?v=d08WS7PzY-s&feature=youtu.be
+[22-07-2019 08:40:10 PM] Ben Jarino has edited Adam Sykes(76561198260203395) Stats! OLD - Bank: 305770 | Cash: 0 | Medic: 0 | Cop: 3 | Admin: 0
+[22-07-2019 08:40:10 PM] Ben Jarino has edited Adam Sykes(76561198260203395) Stats! NEW - Bank: 855770 | Cash: 0 | Medic: 0 | Cop: 3 | Admin: 0
+<b>[22-07-2019 08:34:15 PM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 20500 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 08:34:15 PM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 120500 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 08:09:08 PM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 08:09:08 PM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+[22-07-2019 08:09:02 PM] brandon has edited [NATO] Pfc. J. Del Rey(76561198310025287) Stats! OLD - Bank: 323896 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 0
+[22-07-2019 08:09:02 PM] brandon has edited [NATO] Pfc. J. Del Rey(76561198310025287) Stats! NEW - Bank: 323896 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 0
+[22-07-2019 08:08:48 PM] brandon has edited [NATO] J. Trapstar(76561198936519057) Stats! OLD - Bank: 458854 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 08:08:48 PM] brandon has edited [NATO] J. Trapstar(76561198936519057) Stats! NEW - Bank: 458854 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 0
+[22-07-2019 07:08:19 PM] Ben Jarino has edited Leroy Khalid(76561198964891164) Stats! OLD - Bank: 80000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 07:08:19 PM] Ben Jarino has edited Leroy Khalid(76561198964891164) Stats! NEW - Bank: 630000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 07:06:31 PM] AndrewSanderson has edited [TMP] Pvt. W. Winters(76561198238856468) Stats! OLD - Bank: 113312 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 0
+[22-07-2019 07:06:31 PM] AndrewSanderson has edited [TMP] Pvt. W. Winters(76561198238856468) Stats! NEW - Bank: 113312 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 
+[22-07-2019 06:51:48 PM] AndrewSanderson has edited Thomas K(76561198363282784) Stats! OLD - Bank: 7193517 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 06:51:48 PM] AndrewSanderson has edited Thomas K(76561198363282784) Stats! NEW - Bank: 7193517 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 
+[22-07-2019 06:50:46 PM] AndrewSanderson has edited [TMP] Pvt. J. Spreezy(76561198427415147) Stats! OLD - Bank: 1358020 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 0
+[22-07-2019 06:50:46 PM] AndrewSanderson has edited [TMP] Pvt. J. Spreezy(76561198427415147) Stats! NEW - Bank: 1358020 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 
+<b>[22-07-2019 06:48:59 PM] AndrewSanderson has edited [TMP] Pvt. A. Sanderson(76561198310430800) Stats! OLD - Bank: 542328 | Cash: 100000 | Medic: 0 | Cop: 1 | Admin: 4</b>
+<b>[22-07-2019 06:48:59 PM] AndrewSanderson has edited [TMP] Pvt. A. Sanderson(76561198310430800) Stats! NEW - Bank: 542328 | Cash: 100000 | Medic: 0 | Cop: 2 | Admin: </b>
+[22-07-2019 06:44:24 PM] AndrewSanderson has edited [TMP] Pvt. C. Manarello(76561198879109187) Stats! OLD - Bank: 244099 | Cash: 1550 | Medic: 0 | Cop: 1 | Admin: 0
+[22-07-2019 06:44:24 PM] AndrewSanderson has edited [TMP] Pvt. C. Manarello(76561198879109187) Stats! NEW - Bank: 244099 | Cash: 1550 | Medic: 0 | Cop: 2 | Admin: 
+[22-07-2019 06:32:44 PM] pauly has edited [nato] cpl. d. sosa(76561198882285494) Stats! OLD - Bank: 502797 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 06:32:44 PM] pauly has edited [nato] cpl. d. sosa(76561198882285494) Stats! NEW - Bank: 502797 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 0
+[22-07-2019 06:32:37 PM] pauly has edited [nato] cpl. d. sosa(76561198882285494) Stats! OLD - Bank: 502797 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 06:32:37 PM] pauly has edited [nato] cpl. d. sosa(76561198882285494) Stats! NEW - Bank: 502797 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 05:46:39 PM] pauly has edited [nato] cpl. d. sosa(76561198882285494) Stats! OLD - Bank: 502797 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 0
+[22-07-2019 05:46:39 PM] pauly has edited [nato] cpl. d. sosa(76561198882285494) Stats! NEW - Bank: 502797 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 05:46:22 PM] pauly has edited [NATO] Pfc. J. Del Rey(76561198310025287) Stats! OLD - Bank: 323896 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 05:46:22 PM] pauly has edited [NATO] Pfc. J. Del Rey(76561198310025287) Stats! NEW - Bank: 323896 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 0
+[22-07-2019 05:45:48 PM] pauly has edited [NATO] Pfc. J. Del Rey(76561198310025287) Stats! OLD - Bank: 323896 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 05:45:48 PM] pauly has edited [NATO] Pfc. J. Del Rey(76561198310025287) Stats! NEW - Bank: 323896 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 05:44:00 PM] pauly has edited [NATO] Pfc. J. Del Rey(76561198310025287) Stats! OLD - Bank: 323896 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 0
+[22-07-2019 05:44:00 PM] pauly has edited [NATO] Pfc. J. Del Rey(76561198310025287) Stats! NEW - Bank: 323896 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 05:17:31 PM] AndrewSanderson has edited [TMP] Pfc.A.Hajaar(76561198299465582) Stats! OLD - Bank: 477375 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 0
+[22-07-2019 05:17:31 PM] AndrewSanderson has edited [TMP] Pfc.A.Hajaar(76561198299465582) Stats! NEW - Bank: 477375 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 
+[22-07-2019 04:59:35 PM] AndrewSanderson has edited Marcus Manarello(76561198161941338) Stats! OLD - Bank: 80000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 04:59:35 PM] AndrewSanderson has edited Marcus Manarello(76561198161941338) Stats! NEW - Bank: 80000 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 
+[22-07-2019 04:43:18 PM] GamingOnline has edited Jerald Bubbles(76561198271828980) Stats! OLD - Bank: 80000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 04:43:18 PM] GamingOnline has edited Jerald Bubbles(76561198271828980) Stats! NEW - Bank: 1000000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[Monday 22nd of July 2019 03:39:42 PM] pauly has added a note to Johny hunter(76561198237935076) Account!
+[22-07-2019 03:39:25 PM] pauly has edited Johny hunter(76561198237935076) Stats! OLD - Bank: 1563064 | Cash: 14522 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 03:39:25 PM] pauly has edited Johny hunter(76561198237935076) Stats! NEW - Bank: 1713064 | Cash: 14522 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 01:20:10 PM] pauly has edited [TMP] Pfc. K. Zhu(76561198833485266) Stats! OLD - Bank: 50508 | Cash: 0 | Medic: 0 | Cop: 4 | Admin: 2
+[22-07-2019 01:20:10 PM] pauly has edited [TMP] Pfc. K. Zhu(76561198833485266) Stats! NEW - Bank: 50508 | Cash: 0 | Medic: 0 | Cop: 4 | Admin: 2
+[22-07-2019 01:18:54 PM] pauly has edited Johny hunter(76561198237935076) Stats! OLD - Bank: 1363064 | Cash: 14522 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 01:18:54 PM] pauly has edited Johny hunter(76561198237935076) Stats! NEW - Bank: 1563064 | Cash: 14522 | Medic: 0 | Cop: 0 | Admin: 0
+[Monday 22nd of July 2019 01:18:37 PM] pauly has added a note to Johny hunter(76561198237935076) Account!
+[22-07-2019 12:30:00 PM] AndrewSanderson has edited Liam Capone(76561198850488744) Stats! OLD - Bank: 201948 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 12:30:00 PM] AndrewSanderson has edited Liam Capone(76561198850488744) Stats! NEW - Bank: 250000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 
+[22-07-2019 10:21:06 AM] Haywood has edited Pauly Zhu(76561198170373903) Stats! OLD - Bank: 480352 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 5
+[22-07-2019 10:21:06 AM] Haywood has edited Pauly Zhu(76561198170373903) Stats! NEW - Bank: 480352 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 5
+[22-07-2019 10:21:04 AM] Jason Smith has edited Pauly Zhu(76561198170373903) Stats! OLD - Bank: 480352 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 5
+[22-07-2019 10:21:04 AM] Jason Smith has edited Pauly Zhu(76561198170373903) Stats! NEW - Bank: 480352 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 
+[22-07-2019 07:06:01 AM] Jordan has edited [UN] Lotus Wood(76561198353356662) Stats! OLD - Bank: 176083 | Cash: 1000 | Medic: 5 | Cop: 0 | Admin: 0
+[22-07-2019 07:06:01 AM] Jordan has edited [UN] Lotus Wood(76561198353356662) Stats! NEW - Bank: 176083 | Cash: 1000 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 06:57:07 AM] Jason Smith has edited [NATO] Pfc. R. DeYoung(76561198109351716) Stats! OLD - Bank: 114738 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 0
+[22-07-2019 06:57:07 AM] Jason Smith has edited [NATO] Pfc. R. DeYoung(76561198109351716) Stats! NEW - Bank: 114738 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 
+[22-07-2019 06:56:59 AM] Jason Smith has edited [NATO] Pfc. J. Del Rey(76561198310025287) Stats! OLD - Bank: 273175 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 06:56:59 AM] Jason Smith has edited [NATO] Pfc. J. Del Rey(76561198310025287) Stats! NEW - Bank: 273175 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 
+[22-07-2019 06:56:35 AM] Jason Smith has edited Tree Ambushe(76561198353127618) Stats! OLD - Bank: 337461 | Cash: 0 | Medic: 5 | Cop: 2 | Admin: 0
+[22-07-2019 06:56:35 AM] Jason Smith has edited Tree Ambushe(76561198353127618) Stats! NEW - Bank: 337461 | Cash: 0 | Medic: 5 | Cop: 2 | Admin: 
+[22-07-2019 06:55:14 AM] Jason Smith has edited [NATO] Cpl. A. Shady(76561198303456549) Stats! OLD - Bank: 313630 | Cash: 0 | Medic: 0 | Cop: 3 | Admin: 0
+[22-07-2019 06:55:14 AM] Jason Smith has edited [NATO] Cpl. A. Shady(76561198303456549) Stats! NEW - Bank: 313630 | Cash: 0 | Medic: 0 | Cop: 3 | Admin: 
+[22-07-2019 06:54:52 AM] Jason Smith has edited [NATO] Pfc. J. Del Rey(76561198310025287) Stats! OLD - Bank: 273175 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 0
+[22-07-2019 06:54:52 AM] Jason Smith has edited [NATO] Pfc. J. Del Rey(76561198310025287) Stats! NEW - Bank: 273175 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 
+[22-07-2019 06:54:43 AM] Jason Smith has edited [NATO] Cpl. J Reddington(76561198404773914) Stats! OLD - Bank: 271240 | Cash: 36513 | Medic: 0 | Cop: 10 | Admin: 3
+[22-07-2019 06:54:43 AM] Jason Smith has edited [NATO] Cpl. J Reddington(76561198404773914) Stats! NEW - Bank: 271240 | Cash: 36513 | Medic: 0 | Cop: 5 | Admin: 
+[22-07-2019 06:54:17 AM] Jason Smith has edited [NATO] Cpl. J Reddington(76561198404773914) Stats! OLD - Bank: 271240 | Cash: 36513 | Medic: 0 | Cop: 10 | Admin: 3
+[22-07-2019 06:54:17 AM] Jason Smith has edited [NATO] Cpl. J Reddington(76561198404773914) Stats! NEW - Bank: 271240 | Cash: 36513 | Medic: 0 | Cop: 10 | Admin: 
+[22-07-2019 06:54:04 AM] Jason Smith has edited [NATO] Cpl. T. Vercetti(76561198072164059) Stats! OLD - Bank: 188660 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 1
+[22-07-2019 06:54:04 AM] Jason Smith has edited [NATO] Cpl. T. Vercetti(76561198072164059) Stats! NEW - Bank: 188660 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 
+[22-07-2019 06:53:51 AM] Jason Smith has edited [NATO] Cpt. J. Spencer(76561198293157190) Stats! OLD - Bank: 598210 | Cash: 10000 | Medic: 0 | Cop: 7 | Admin: 0
+[22-07-2019 06:53:51 AM] Jason Smith has edited [NATO] Cpt. J. Spencer(76561198293157190) Stats! NEW - Bank: 598210 | Cash: 10000 | Medic: 0 | Cop: 7 | Admin: 
+[22-07-2019 06:53:35 AM] Jason Smith has edited [NATO] Col. K. Jarino(76561198316812270) Stats! OLD - Bank: 1067820 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 0
+[22-07-2019 06:53:35 AM] Jason Smith has edited [NATO] Col. K. Jarino(76561198316812270) Stats! NEW - Bank: 1067820 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 
+[22-07-2019 06:53:20 AM] Jason Smith has edited [NATO] Gen. D. Murphy(76561198299466043) Stats! OLD - Bank: 204445 | Cash: 0 | Medic: 0 | Cop: 9 | Admin: 0
+[22-07-2019 06:53:20 AM] Jason Smith has edited [NATO] Gen. D. Murphy(76561198299466043) Stats! NEW - Bank: 204445 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 
+[22-07-2019 06:52:39 AM] Jason Smith has edited [NATO] Haywood Jarino(76561198093375356) Stats! OLD - Bank: 7025257 | Cash: 39550 | Medic: 0 | Cop: 10 | Admin: 5
+[22-07-2019 06:52:39 AM] Jason Smith has edited [NATO] Haywood Jarino(76561198093375356) Stats! NEW - Bank: 7025257 | Cash: 39550 | Medic: 0 | Cop: 10 | Admin: 
+[22-07-2019 06:52:32 AM] Jason Smith has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5
+[22-07-2019 06:52:32 AM] Jason Smith has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 
+[22-07-2019 06:52:20 AM] Jason Smith has edited [NATO] 1Lt. D. Rose(76561198172908623) Stats! OLD - Bank: 80000 | Cash: 0 | Medic: 0 | Cop: 6 | Admin: 0
+[22-07-2019 06:52:20 AM] Jason Smith has edited [NATO] 1Lt. D. Rose(76561198172908623) Stats! NEW - Bank: 80000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 
+[22-07-2019 06:52:07 AM] Jason Smith has edited Mitchell Parker(76561198040157483) Stats! OLD - Bank: 122678 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 06:52:07 AM] Jason Smith has edited Mitchell Parker(76561198040157483) Stats! NEW - Bank: 122678 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 
+[22-07-2019 06:51:58 AM] Jason Smith has edited [TMP] Pvt V. Paris(76561198185024631) Stats! OLD - Bank: 83146 | Cash: 4503 | Medic: 0 | Cop: 1 | Admin: 0
+[22-07-2019 06:51:58 AM] Jason Smith has edited [TMP] Pvt V. Paris(76561198185024631) Stats! NEW - Bank: 83146 | Cash: 4503 | Medic: 0 | Cop: 1 | Admin: 
+[22-07-2019 06:51:52 AM] Jason Smith has edited [NATO] J. Trapstar(76561198936519057) Stats! OLD - Bank: 458854 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 0
+[22-07-2019 06:51:52 AM] Jason Smith has edited [NATO] J. Trapstar(76561198936519057) Stats! NEW - Bank: 458854 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 
+[22-07-2019 06:51:38 AM] Jason Smith has edited NATO Pvt. Y Mejias(76561198260961025) Stats! OLD - Bank: 222493 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 0
+[22-07-2019 06:51:38 AM] Jason Smith has edited NATO Pvt. Y Mejias(76561198260961025) Stats! NEW - Bank: 222493 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 
+[22-07-2019 06:51:30 AM] Jason Smith has edited Jacob Speezy(76561198427415147) Stats! OLD - Bank: 1324528 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 0
+[22-07-2019 06:51:30 AM] Jason Smith has edited Jacob Speezy(76561198427415147) Stats! NEW - Bank: 1324528 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 
+[22-07-2019 06:51:22 AM] Jason Smith has edited Andrew Feuerstein(76561198264345672) Stats! OLD - Bank: 1707665 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 06:51:22 AM] Jason Smith has edited Andrew Feuerstein(76561198264345672) Stats! NEW - Bank: 1707665 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 
+[22-07-2019 06:51:15 AM] Jason Smith has edited David Baked(76561198365130873) Stats! OLD - Bank: 21315 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 0
+[22-07-2019 06:51:15 AM] Jason Smith has edited David Baked(76561198365130873) Stats! NEW - Bank: 21315 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 
+[22-07-2019 06:51:09 AM] Jason Smith has edited riley hajaar(76561198369168722) Stats! OLD - Bank: 87060 | Cash: 0 | Medic: 0 | Cop: 3 | Admin: 1
+[22-07-2019 06:51:09 AM] Jason Smith has edited riley hajaar(76561198369168722) Stats! NEW - Bank: 87060 | Cash: 0 | Medic: 0 | Cop: 3 | Admin: 
+[22-07-2019 06:51:02 AM] Jason Smith has edited Lucio Panini(76561198009978959) Stats! OLD - Bank: 168200 | Cash: 0 | Medic: 5 | Cop: 7 | Admin: 0
+[22-07-2019 06:51:02 AM] Jason Smith has edited Lucio Panini(76561198009978959) Stats! NEW - Bank: 168200 | Cash: 0 | Medic: 5 | Cop: 7 | Admin: 
+[22-07-2019 06:50:55 AM] Jason Smith has edited Caleb Trammell(76561198114635313) Stats! OLD - Bank: 95168 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 06:50:55 AM] Jason Smith has edited Caleb Trammell(76561198114635313) Stats! NEW - Bank: 95168 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 
+[22-07-2019 06:50:49 AM] Jason Smith has edited Sam Newey(76561198258868284) Stats! OLD - Bank: 116669 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 06:50:49 AM] Jason Smith has edited Sam Newey(76561198258868284) Stats! NEW - Bank: 116669 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 
+[22-07-2019 06:50:42 AM] Jason Smith has edited [NATO] Gen. D. Murphy(76561198299466043) Stats! OLD - Bank: 204445 | Cash: 0 | Medic: 0 | Cop: 9 | Admin: 0
+[22-07-2019 06:50:42 AM] Jason Smith has edited [NATO] Gen. D. Murphy(76561198299466043) Stats! NEW - Bank: 204445 | Cash: 0 | Medic: 0 | Cop: 9 | Admin: 
+[22-07-2019 06:50:32 AM] Jason Smith has edited MKaden(76561198138705499) Stats! OLD - Bank: 650879 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 06:50:32 AM] Jason Smith has edited MKaden(76561198138705499) Stats! NEW - Bank: 650879 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 
+[22-07-2019 06:50:26 AM] Jason Smith has edited [TMP] Pvt.m.zhu(76561198162183930) Stats! OLD - Bank: 580417 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 0
+[22-07-2019 06:50:26 AM] Jason Smith has edited [TMP] Pvt.m.zhu(76561198162183930) Stats! NEW - Bank: 580417 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 
+[22-07-2019 06:50:19 AM] John Reddington has edited Bohn Borrester(76561198282014773) Stats! OLD - Bank: 75102 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 0
+[22-07-2019 06:50:19 AM] John Reddington has edited Bohn Borrester(76561198282014773) Stats! NEW - Bank: 75102 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 
+[22-07-2019 06:50:17 AM] Jason Smith has edited [NATO] Cpt. J. Spencer(76561198293157190) Stats! OLD - Bank: 598210 | Cash: 10000 | Medic: 0 | Cop: 7 | Admin: 0
+[22-07-2019 06:50:17 AM] Jason Smith has edited [NATO] Cpt. J. Spencer(76561198293157190) Stats! NEW - Bank: 598210 | Cash: 10000 | Medic: 0 | Cop: 7 | Admin: 
+[22-07-2019 06:50:09 AM] Jason Smith has edited [NATO] Cpl. T. Vercetti(76561198072164059) Stats! OLD - Bank: 188660 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 1
+[22-07-2019 06:50:09 AM] Jason Smith has edited [NATO] Cpl. T. Vercetti(76561198072164059) Stats! NEW - Bank: 188660 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 
+[Monday 22nd of July 2019 06:46:35 AM] Haywood has Issued [NATO] B. Trapstar(76561198293578146) -10 Warning Points. Reason: test
+[Monday 22nd of July 2019 06:46:21 AM] Haywood has Issued [NATO] B. Trapstar(76561198293578146) 10 Warning Points. Reason: test
+[22-07-2019 06:41:51 AM] Jason Smith has edited [TMP] Cpl. C. John(76561198200976389) Stats! OLD - Bank: 306878 | Cash: 0 | Medic: 0 | Cop: 3 | Admin: 0
+[22-07-2019 06:41:51 AM] Jason Smith has edited [TMP] Cpl. C. John(76561198200976389) Stats! NEW - Bank: 306878 | Cash: 0 | Medic: 0 | Cop: 3 | Admin: 
+[22-07-2019 06:41:44 AM] Jason Smith has edited Tree Ambushe(76561198353127618) Stats! OLD - Bank: 337461 | Cash: 0 | Medic: 5 | Cop: 2 | Admin: 0
+[22-07-2019 06:41:44 AM] Jason Smith has edited Tree Ambushe(76561198353127618) Stats! NEW - Bank: 337461 | Cash: 0 | Medic: 5 | Cop: 2 | Admin: 
+[22-07-2019 06:41:38 AM] Jason Smith has edited [NATO] Cpl. A. Shady(76561198303456549) Stats! OLD - Bank: 313630 | Cash: 0 | Medic: 0 | Cop: 3 | Admin: 0
+[22-07-2019 06:41:38 AM] Jason Smith has edited [NATO] Cpl. A. Shady(76561198303456549) Stats! NEW - Bank: 313630 | Cash: 0 | Medic: 0 | Cop: 3 | Admin: 
+[22-07-2019 06:41:32 AM] Jason Smith has edited [NATO] Sgt. A. Freeman(76561198201442377) Stats! OLD - Bank: 165623 | Cash: 0 | Medic: 0 | Cop: 4 | Admin: 5
+[22-07-2019 06:41:32 AM] Jason Smith has edited [NATO] Sgt. A. Freeman(76561198201442377) Stats! NEW - Bank: 165623 | Cash: 0 | Medic: 0 | Cop: 4 | Admin: 
+[22-07-2019 06:41:21 AM] Jason Smith has edited [NATO] Pfc. R. DeYoung(76561198109351716) Stats! OLD - Bank: 114738 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 0
+[22-07-2019 06:41:21 AM] Jason Smith has edited [NATO] Pfc. R. DeYoung(76561198109351716) Stats! NEW - Bank: 114738 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 
+[22-07-2019 06:41:07 AM] Jason Smith has edited Oakley Authento(76561198799120969) Stats! OLD - Bank: 283033 | Cash: 0 | Medic: 0 | Cop: 6 | Admin: 0
+[22-07-2019 06:41:07 AM] Jason Smith has edited Oakley Authento(76561198799120969) Stats! NEW - Bank: 283033 | Cash: 0 | Medic: 0 | Cop: 6 | Admin: 
+<b>[22-07-2019 06:41:05 AM] Haywood has edited [NATO] Haywood Jarino(76561198093375356) Stats! OLD - Bank: 7025257 | Cash: 39550 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:41:05 AM] Haywood has edited [NATO] Haywood Jarino(76561198093375356) Stats! NEW - Bank: 7025257 | Cash: 39550 | Medic: 0 | Cop: 10 | Admin: 5</b>
+[22-07-2019 06:40:56 AM] Jason Smith has edited [NATO] Pfc. J. Del Rey(76561198310025287) Stats! OLD - Bank: 273175 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 0
+[22-07-2019 06:40:56 AM] Jason Smith has edited [NATO] Pfc. J. Del Rey(76561198310025287) Stats! NEW - Bank: 273175 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 
+[22-07-2019 06:40:52 AM] Jason Smith has edited [NATO] Cpl. J Reddington(76561198404773914) Stats! OLD - Bank: 271240 | Cash: 36513 | Medic: 0 | Cop: 10 | Admin: 3
+[22-07-2019 06:40:52 AM] Jason Smith has edited [NATO] Cpl. J Reddington(76561198404773914) Stats! NEW - Bank: 271240 | Cash: 36513 | Medic: 0 | Cop: 10 | Admin: 
+<b>[22-07-2019 06:40:51 AM] Haywood has edited [NATO] Haywood Jarino(76561198093375356) Stats! OLD - Bank: 7025257 | Cash: 39550 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:40:51 AM] Haywood has edited [NATO] Haywood Jarino(76561198093375356) Stats! NEW - Bank: 7025257 | Cash: 39550 | Medic: 0 | Cop: 10 | Admin: 5</b>
+[22-07-2019 06:40:49 AM] Jason Smith has edited [TMP] Col. K. Gunz(76561198070796952) Stats! OLD - Bank: 9806180 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 0
+[22-07-2019 06:40:49 AM] Jason Smith has edited [TMP] Col. K. Gunz(76561198070796952) Stats! NEW - Bank: 9806180 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 
+[22-07-2019 06:40:45 AM] Jason Smith has edited Ben Jarino(76561198208080315) Stats! OLD - Bank: 4209417 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 5
+[22-07-2019 06:40:45 AM] Jason Smith has edited Ben Jarino(76561198208080315) Stats! NEW - Bank: 4209417 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 
+[22-07-2019 06:40:41 AM] Jason Smith has edited Pauly Zhu(76561198170373903) Stats! OLD - Bank: 478452 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 5
+[22-07-2019 06:40:41 AM] Jason Smith has edited Pauly Zhu(76561198170373903) Stats! NEW - Bank: 478452 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 
+[22-07-2019 06:40:37 AM] Jason Smith has edited [NATO] Sgt. J. Luckely(76561198123473506) Stats! OLD - Bank: 2373105 | Cash: 28081 | Medic: 5 | Cop: 10 | Admin: 5
+[22-07-2019 06:40:37 AM] Jason Smith has edited [NATO] Sgt. J. Luckely(76561198123473506) Stats! NEW - Bank: 2373105 | Cash: 28081 | Medic: 5 | Cop: 10 | Admin: 
+<b>[22-07-2019 06:40:35 AM] Haywood has edited [NATO] Haywood Jarino(76561198093375356) Stats! OLD - Bank: 7025257 | Cash: 39550 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:40:35 AM] Haywood has edited [NATO] Haywood Jarino(76561198093375356) Stats! NEW - Bank: 7025257 | Cash: 39550 | Medic: 0 | Cop: 10 | Admin: 5</b>
+[22-07-2019 06:40:34 AM] Jason Smith has edited [NATO] Col. K. Jarino(76561198316812270) Stats! OLD - Bank: 1067820 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 0
+[22-07-2019 06:40:34 AM] Jason Smith has edited [NATO] Col. K. Jarino(76561198316812270) Stats! NEW - Bank: 1067820 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 
+[22-07-2019 06:40:29 AM] Jason Smith has edited Chris Yikes(76561198216587341) Stats! OLD - Bank: 19678 | Cash: 550 | Medic: 0 | Cop: 1 | Admin: 0
+[22-07-2019 06:40:29 AM] Jason Smith has edited Chris Yikes(76561198216587341) Stats! NEW - Bank: 19678 | Cash: 550 | Medic: 0 | Cop: 0 | Admin: 
+<b>[22-07-2019 06:40:24 AM] Haywood has edited [NATO] Haywood Jarino(76561198093375356) Stats! OLD - Bank: 7025257 | Cash: 39550 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:40:24 AM] Haywood has edited [NATO] Haywood Jarino(76561198093375356) Stats! NEW - Bank: 7025257 | Cash: 39550 | Medic: 0 | Cop: 10 | Admin: 5</b>
+[22-07-2019 06:40:16 AM] Jason Smith has edited [NATO] Cpl. A. Belokov(76561198075021625) Stats! OLD - Bank: 1489217 | Cash: 27071 | Medic: 0 | Cop: 10 | Admin: 4
+[22-07-2019 06:40:16 AM] Jason Smith has edited [NATO] Cpl. A. Belokov(76561198075021625) Stats! NEW - Bank: 1489217 | Cash: 27071 | Medic: 0 | Cop: 10 | Admin: 
+<b>[22-07-2019 06:40:13 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:40:13 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+[22-07-2019 06:40:08 AM] Jason Smith has edited Jordan Hansen(76561198326967896) Stats! OLD - Bank: 5833596 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 5
+[22-07-2019 06:40:08 AM] Jason Smith has edited Jordan Hansen(76561198326967896) Stats! NEW - Bank: 5833596 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 
+<b>[22-07-2019 06:40:08 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:40:08 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:40:01 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:40:01 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+[22-07-2019 06:40:00 AM] Jason Smith has edited [NATO] Pfc. J. Del Rey(76561198310025287) Stats! OLD - Bank: 273175 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 0
+[22-07-2019 06:40:00 AM] Jason Smith has edited [NATO] Pfc. J. Del Rey(76561198310025287) Stats! NEW - Bank: 273175 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 
+[22-07-2019 06:39:55 AM] Jason Smith has edited [NATO] Cpl. J Reddington(76561198404773914) Stats! OLD - Bank: 271240 | Cash: 36513 | Medic: 0 | Cop: 10 | Admin: 3
+[22-07-2019 06:39:55 AM] Jason Smith has edited [NATO] Cpl. J Reddington(76561198404773914) Stats! NEW - Bank: 271240 | Cash: 36513 | Medic: 0 | Cop: 10 | Admin: 
+[22-07-2019 06:39:50 AM] Jason Smith has edited [TMP] Col. K. Gunz(76561198070796952) Stats! OLD - Bank: 9806180 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 0
+[22-07-2019 06:39:50 AM] Jason Smith has edited [TMP] Col. K. Gunz(76561198070796952) Stats! NEW - Bank: 9806180 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 
+[22-07-2019 06:39:44 AM] Jason Smith has edited Dave Coleman(76561198180984321) Stats! OLD - Bank: 2185556 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 5
+[22-07-2019 06:39:44 AM] Jason Smith has edited Dave Coleman(76561198180984321) Stats! NEW - Bank: 2185556 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 
+[22-07-2019 06:39:39 AM] Jason Smith has edited Ben Jarino(76561198208080315) Stats! OLD - Bank: 4209417 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 5
+[22-07-2019 06:39:39 AM] Jason Smith has edited Ben Jarino(76561198208080315) Stats! NEW - Bank: 4209417 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 
+[22-07-2019 06:39:32 AM] Jason Smith has edited [nato] cpl. d. sosa(76561198882285494) Stats! OLD - Bank: 502797 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 0
+[22-07-2019 06:39:32 AM] Jason Smith has edited [nato] cpl. d. sosa(76561198882285494) Stats! NEW - Bank: 502797 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 
+<b>[22-07-2019 06:39:27 AM] Jason Smith has edited [TMP] Lt. J. Smith(76561198140151368) Stats! OLD - Bank: 770766 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 3</b>
+<b>[22-07-2019 06:39:27 AM] Jason Smith has edited [TMP] Lt. J. Smith(76561198140151368) Stats! NEW - Bank: 770766 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: </b>
+<b>[22-07-2019 06:39:20 AM] Jason Smith has edited [TMP] Lt. J. Smith(76561198140151368) Stats! OLD - Bank: 770766 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 3</b>
+<b>[22-07-2019 06:39:20 AM] Jason Smith has edited [TMP] Lt. J. Smith(76561198140151368) Stats! NEW - Bank: 770766 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: </b>
+<b>[22-07-2019 06:39:16 AM] Jason Smith has edited [TMP] Lt. J. Smith(76561198140151368) Stats! OLD - Bank: 770766 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 3</b>
+<b>[22-07-2019 06:39:16 AM] Jason Smith has edited [TMP] Lt. J. Smith(76561198140151368) Stats! NEW - Bank: 770766 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: </b>
+[22-07-2019 06:39:12 AM] Jason Smith has edited Pauly Zhu(76561198170373903) Stats! OLD - Bank: 478452 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 5
+[22-07-2019 06:39:12 AM] Jason Smith has edited Pauly Zhu(76561198170373903) Stats! NEW - Bank: 478452 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 
+[22-07-2019 06:39:06 AM] Jason Smith has edited [NATO] Sgt. J. Luckely(76561198123473506) Stats! OLD - Bank: 2373105 | Cash: 28081 | Medic: 5 | Cop: 10 | Admin: 5
+[22-07-2019 06:39:06 AM] Jason Smith has edited [NATO] Sgt. J. Luckely(76561198123473506) Stats! NEW - Bank: 2373105 | Cash: 28081 | Medic: 5 | Cop: 10 | Admin: 
+[22-07-2019 06:39:01 AM] Jason Smith has edited [NATO] Col. K. Jarino(76561198316812270) Stats! OLD - Bank: 1067820 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 0
+[22-07-2019 06:39:01 AM] Jason Smith has edited [NATO] Col. K. Jarino(76561198316812270) Stats! NEW - Bank: 1067820 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 
+<b>[22-07-2019 06:38:40 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:38:40 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:38:33 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:38:33 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:38:24 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:38:24 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:23:32 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:23:32 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:23:26 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:23:26 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:23:20 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:23:20 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:21:59 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:21:59 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:21:48 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:21:48 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:21:11 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:21:11 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:21:04 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:21:04 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:20:58 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:20:58 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:20:53 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:20:53 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:20:39 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:20:39 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:20:32 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:20:32 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:18:55 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:18:55 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:18:48 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:18:48 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:18:41 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 06:18:41 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+[22-07-2019 06:09:30 AM] Haywood has edited riley hajaar(76561198369168722) Stats! OLD - Bank: 87060 | Cash: 0 | Medic: 0 | Cop: 3 | Admin: 1
+[22-07-2019 06:09:30 AM] Haywood has edited riley hajaar(76561198369168722) Stats! NEW - Bank: 87060 | Cash: 0 | Medic: 0 | Cop: 3 | Admin: 1
+[22-07-2019 06:09:16 AM] Haywood has edited riley hajaar(76561198369168722) Stats! OLD - Bank: 87060 | Cash: 0 | Medic: 0 | Cop: 3 | Admin: 1
+[22-07-2019 06:09:16 AM] Haywood has edited riley hajaar(76561198369168722) Stats! NEW - Bank: 87060 | Cash: 0 | Medic: 0 | Cop: 3 | Admin: 1
+[22-07-2019 06:07:26 AM] Haywood has edited Lucio Panini(76561198009978959) Stats! OLD - Bank: 168200 | Cash: 0 | Medic: 5 | Cop: 7 | Admin: 0
+[22-07-2019 06:07:26 AM] Haywood has edited Lucio Panini(76561198009978959) Stats! NEW - Bank: 168200 | Cash: 0 | Medic: 5 | Cop: 7 | Admin: 0
+[22-07-2019 06:06:42 AM] Haywood has edited Lucio Panini(76561198009978959) Stats! OLD - Bank: 168200 | Cash: 0 | Medic: 5 | Cop: 7 | Admin: 0
+[22-07-2019 06:06:42 AM] Haywood has edited Lucio Panini(76561198009978959) Stats! NEW - Bank: 168200 | Cash: 0 | Medic: 5 | Cop: 7 | Admin: 0
+[22-07-2019 06:06:31 AM] Haywood has edited Lucio Panini(76561198009978959) Stats! OLD - Bank: 168200 | Cash: 0 | Medic: 5 | Cop: 7 | Admin: 0
+[22-07-2019 06:06:31 AM] Haywood has edited Lucio Panini(76561198009978959) Stats! NEW - Bank: 168200 | Cash: 0 | Medic: 5 | Cop: 7 | Admin: 0
+[22-07-2019 06:06:07 AM] Haywood has edited Lucio Panini(76561198009978959) Stats! OLD - Bank: 168200 | Cash: 0 | Medic: 5 | Cop: 7 | Admin: 0
+[22-07-2019 06:06:07 AM] Haywood has edited Lucio Panini(76561198009978959) Stats! NEW - Bank: 168200 | Cash: 0 | Medic: 5 | Cop: 7 | Admin: 0
+[22-07-2019 06:05:59 AM] Haywood has edited Lucio Panini(76561198009978959) Stats! OLD - Bank: 168200 | Cash: 0 | Medic: 5 | Cop: 7 | Admin: 0
+[22-07-2019 06:05:59 AM] Haywood has edited Lucio Panini(76561198009978959) Stats! NEW - Bank: 168200 | Cash: 0 | Medic: 5 | Cop: 7 | Admin: 0
+[22-07-2019 06:05:32 AM] Haywood has edited Pauly Zhu(76561198170373903) Stats! OLD - Bank: 478452 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 5
+[22-07-2019 06:05:32 AM] Haywood has edited Pauly Zhu(76561198170373903) Stats! NEW - Bank: 478452 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 5
+[22-07-2019 06:05:22 AM] Haywood has edited Pauly Zhu(76561198170373903) Stats! OLD - Bank: 478452 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 5
+[22-07-2019 06:05:22 AM] Haywood has edited Pauly Zhu(76561198170373903) Stats! NEW - Bank: 478452 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 5
+[22-07-2019 06:05:12 AM] Haywood has edited Pauly Zhu(76561198170373903) Stats! OLD - Bank: 478452 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 5
+[22-07-2019 06:05:12 AM] Haywood has edited Pauly Zhu(76561198170373903) Stats! NEW - Bank: 478452 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 5
+[22-07-2019 06:04:38 AM] Haywood has edited [NATO] Col. K. Jarino(76561198316812270) Stats! OLD - Bank: 1067820 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 0
+[22-07-2019 06:04:38 AM] Haywood has edited [NATO] Col. K. Jarino(76561198316812270) Stats! NEW - Bank: 1067820 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 0
+[22-07-2019 06:00:50 AM] brandon has edited [NATO] Haywood Jarino(76561198093375356) Stats! OLD - Bank: 7025257 | Cash: 39550 | Medic: 0 | Cop: 10 | Admin: 
+[22-07-2019 06:00:50 AM] brandon has edited [NATO] Haywood Jarino(76561198093375356) Stats! NEW - Bank: 7025257 | Cash: 39550 | Medic: 0 | Cop: 10 | Admin: 5
+<b>[22-07-2019 05:49:52 AM] Haywood has edited [NATO] Haywood Jarino(76561198093375356) Stats! OLD - Bank: 7025257 | Cash: 39550 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 05:49:52 AM] Haywood has edited [NATO] Haywood Jarino(76561198093375356) Stats! NEW - Bank: 7025257 | Cash: 39550 | Medic: 0 | Cop: 10 | Admin: 5</b>
+[22-07-2019 05:46:53 AM] Jason Smith has edited [NATO] Pfc. P. Escobar(76561198100148062) Stats! OLD - Bank: 1104734 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 0
+[22-07-2019 05:46:53 AM] Jason Smith has edited [NATO] Pfc. P. Escobar(76561198100148062) Stats! NEW - Bank: 1104734 | Cash: 0 | Medic: 0 | Cop: 3 | Admin: 
+<b>[22-07-2019 05:45:33 AM] Haywood has edited [NATO] Haywood Jarino(76561198093375356) Stats! OLD - Bank: 7025257 | Cash: 39550 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 05:45:33 AM] Haywood has edited [NATO] Haywood Jarino(76561198093375356) Stats! NEW - Bank: 7025257 | Cash: 39550 | Medic: 0 | Cop: 10 | Admin: 5</b>
+[22-07-2019 05:44:58 AM] Jason Smith has edited Adam Sykes(76561198260203395) Stats! OLD - Bank: 444085 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 05:44:58 AM] Jason Smith has edited Adam Sykes(76561198260203395) Stats! NEW - Bank: 444085 | Cash: 0 | Medic: 0 | Cop: 3 | Admin: 
+[Monday 22nd of July 2019 05:30:39 AM] Chriss James has Issued trapstar orange(76561198215778809) 15 Warning Points. Reason: Homophobic
+[Monday 22nd of July 2019 05:06:37 AM] John Silver has Issued Jordan Sullivan(76561198271396739) 5 Warning Points. Reason: rdm
+<b>[22-07-2019 04:55:35 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 105000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 04:55:35 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 15000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 04:55:22 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 95000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 04:55:22 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 105000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 04:54:41 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 95000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 04:54:41 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 95000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 04:54:34 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 95000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 04:54:34 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 95000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 04:54:01 AM] Haywood has edited [NATO] Haywood Jarino(76561198093375356) Stats! OLD - Bank: 6994357 | Cash: 45000 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 04:54:01 AM] Haywood has edited [NATO] Haywood Jarino(76561198093375356) Stats! NEW - Bank: 6994357 | Cash: 45000 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 04:52:15 AM] Haywood has edited [NATO] Haywood Jarino(76561198093375356) Stats! OLD - Bank: 6994357 | Cash: 45000 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 04:52:15 AM] Haywood has edited [NATO] Haywood Jarino(76561198093375356) Stats! NEW - Bank: 6994357 | Cash: 45000 | Medic: 0 | Cop: 10 | Admin: 5</b>
+[22-07-2019 04:50:11 AM] John Silver has edited Braid Rosso(76561198317726585) Stats! OLD - Bank: 219133 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 2
+[22-07-2019 04:50:11 AM] John Silver has edited Braid Rosso(76561198317726585) Stats! NEW - Bank: 319133 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 
+<b>[22-07-2019 04:49:31 AM] Haywood has edited [NATO] Haywood Jarino(76561198093375356) Stats! OLD - Bank: 6994357 | Cash: 45000 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 04:49:31 AM] Haywood has edited [NATO] Haywood Jarino(76561198093375356) Stats! NEW - Bank: 6994357 | Cash: 45000 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 04:49:15 AM] Haywood has edited [NATO] Haywood Jarino(76561198093375356) Stats! OLD - Bank: 6994357 | Cash: 45000 | Medic: 5 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 04:49:15 AM] Haywood has edited [NATO] Haywood Jarino(76561198093375356) Stats! NEW - Bank: 6994357 | Cash: 45000 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 04:46:23 AM] Haywood has edited [NATO] Haywood Jarino(76561198093375356) Stats! OLD - Bank: 6994357 | Cash: 45000 | Medic: 5 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 04:46:23 AM] Haywood has edited [NATO] Haywood Jarino(76561198093375356) Stats! NEW - Bank: 6994357 | Cash: 45000 | Medic: 5 | Cop: 10 | Admin: 5</b>
+[Monday 22nd of July 2019 04:45:17 AM] John Silver has Issued devante milly rock(76561198798992797) 50 Warning Points. Reason: Exploiting | 7d | 9SltOTLF0 | #Austin
+[22-07-2019 04:44:57 AM] Jason Smith has edited [NATO] J. Trapstar(76561198936519057) Stats! OLD - Bank: 458854 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 0
+[22-07-2019 04:44:57 AM] Jason Smith has edited [NATO] J. Trapstar(76561198936519057) Stats! NEW - Bank: 458854 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 
+[22-07-2019 04:44:27 AM] Jason Smith has edited Dave Coleman(76561198180984321) Stats! OLD - Bank: 2185556 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 5
+[22-07-2019 04:44:27 AM] Jason Smith has edited Dave Coleman(76561198180984321) Stats! NEW - Bank: 2185556 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 
+[22-07-2019 04:44:18 AM] Jason Smith has edited [nato] cpl. d. sosa(76561198882285494) Stats! OLD - Bank: 502797 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 0
+[22-07-2019 04:44:18 AM] Jason Smith has edited [nato] cpl. d. sosa(76561198882285494) Stats! NEW - Bank: 502797 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 
+<b>[22-07-2019 04:44:13 AM] Jason Smith has edited [TMP] Lt. J. Smith(76561198140151368) Stats! OLD - Bank: 770766 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 3</b>
+<b>[22-07-2019 04:44:13 AM] Jason Smith has edited [TMP] Lt. J. Smith(76561198140151368) Stats! NEW - Bank: 770766 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: </b>
+[22-07-2019 04:44:02 AM] Jason Smith has edited [NATO] Sgt. J. Luckely(76561198123473506) Stats! OLD - Bank: 2373105 | Cash: 28081 | Medic: 5 | Cop: 10 | Admin: 5
+[22-07-2019 04:44:02 AM] Jason Smith has edited [NATO] Sgt. J. Luckely(76561198123473506) Stats! NEW - Bank: 2373105 | Cash: 28081 | Medic: 5 | Cop: 10 | Admin: 
+[22-07-2019 04:43:52 AM] John Silver has edited [NATO] Cpl. T. Vercetti(76561198072164059) Stats! OLD - Bank: 88720 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 1
+[22-07-2019 04:43:52 AM] John Silver has edited [NATO] Cpl. T. Vercetti(76561198072164059) Stats! NEW - Bank: 188720 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 
+[22-07-2019 04:43:44 AM] Jason Smith has edited [NATO] Col. K. Jarino(76561198316812270) Stats! OLD - Bank: 1067820 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 0
+[22-07-2019 04:43:44 AM] Jason Smith has edited [NATO] Col. K. Jarino(76561198316812270) Stats! NEW - Bank: 1067820 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 
+[22-07-2019 04:42:59 AM] John Silver has edited Ben Larrson(76561198355117479) Stats! OLD - Bank: 13585 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 04:42:59 AM] John Silver has edited Ben Larrson(76561198355117479) Stats! NEW - Bank: 13585 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 
+<b>[22-07-2019 04:40:48 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 78064 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 04:40:48 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 95000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 04:40:16 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 78064 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 04:40:16 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 95000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+[22-07-2019 04:39:28 AM] Jason Smith has edited [nato] cpl. d. sosa(76561198882285494) Stats! OLD - Bank: 502797 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 0
+[22-07-2019 04:39:28 AM] Jason Smith has edited [nato] cpl. d. sosa(76561198882285494) Stats! NEW - Bank: 502797 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 
+[22-07-2019 04:36:53 AM] Jason Smith has edited [nato] cpl. d. sosa(76561198882285494) Stats! OLD - Bank: 502797 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 0
+[22-07-2019 04:36:53 AM] Jason Smith has edited [nato] cpl. d. sosa(76561198882285494) Stats! NEW - Bank: 502797 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 
+<b>[22-07-2019 04:36:44 AM] Jason Smith has edited [TMP] Lt. J. Smith(76561198140151368) Stats! OLD - Bank: 770766 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 3</b>
+<b>[22-07-2019 04:36:44 AM] Jason Smith has edited [TMP] Lt. J. Smith(76561198140151368) Stats! NEW - Bank: 770766 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: </b>
+[22-07-2019 04:36:37 AM] Jason Smith has edited Pauly Zhu(76561198170373903) Stats! OLD - Bank: 478452 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 5
+[22-07-2019 04:36:37 AM] Jason Smith has edited Pauly Zhu(76561198170373903) Stats! NEW - Bank: 478452 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 
+[22-07-2019 04:36:33 AM] Jason Smith has edited [NATO] Sgt. J. Luckely(76561198123473506) Stats! OLD - Bank: 2373105 | Cash: 28081 | Medic: 5 | Cop: 10 | Admin: 5
+[22-07-2019 04:36:33 AM] Jason Smith has edited [NATO] Sgt. J. Luckely(76561198123473506) Stats! NEW - Bank: 2373105 | Cash: 28081 | Medic: 5 | Cop: 10 | Admin: 
+[22-07-2019 04:36:28 AM] Jason Smith has edited [NATO] Col. K. Jarino(76561198316812270) Stats! OLD - Bank: 1067820 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 0
+[22-07-2019 04:36:28 AM] Jason Smith has edited [NATO] Col. K. Jarino(76561198316812270) Stats! NEW - Bank: 1067820 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 
+[22-07-2019 04:36:00 AM] Jason Smith has edited Ben Jarino(76561198208080315) Stats! OLD - Bank: 4209417 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 5
+[22-07-2019 04:36:00 AM] Jason Smith has edited Ben Jarino(76561198208080315) Stats! NEW - Bank: 4209417 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 
+[22-07-2019 04:35:57 AM] Jason Smith has edited [nato] cpl. d. sosa(76561198882285494) Stats! OLD - Bank: 502797 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 0
+[22-07-2019 04:35:57 AM] Jason Smith has edited [nato] cpl. d. sosa(76561198882285494) Stats! NEW - Bank: 502797 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 
+[22-07-2019 04:35:51 AM] Jason Smith has edited Pauly Zhu(76561198170373903) Stats! OLD - Bank: 478452 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 5
+[22-07-2019 04:35:51 AM] Jason Smith has edited Pauly Zhu(76561198170373903) Stats! NEW - Bank: 478452 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 
+[22-07-2019 04:35:48 AM] Jason Smith has edited [NATO] Sgt. J. Luckely(76561198123473506) Stats! OLD - Bank: 2373105 | Cash: 28081 | Medic: 5 | Cop: 10 | Admin: 5
+[22-07-2019 04:35:48 AM] Jason Smith has edited [NATO] Sgt. J. Luckely(76561198123473506) Stats! NEW - Bank: 2373105 | Cash: 28081 | Medic: 5 | Cop: 10 | Admin: 
+[22-07-2019 04:35:43 AM] Jason Smith has edited [NATO] Pfc. P. Escobar(76561198100148062) Stats! OLD - Bank: 1104734 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 0
+[22-07-2019 04:35:43 AM] Jason Smith has edited [NATO] Pfc. P. Escobar(76561198100148062) Stats! NEW - Bank: 1104734 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 
+[Monday 22nd of July 2019 04:35:29 AM] Chriss James has Issued Braid Rosso(76561198317726585) 10 Warning Points. Reason: RDM
+[22-07-2019 04:35:13 AM] Jason Smith has edited [nato] cpl. d. sosa(76561198882285494) Stats! OLD - Bank: 502797 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 0
+[22-07-2019 04:35:13 AM] Jason Smith has edited [nato] cpl. d. sosa(76561198882285494) Stats! NEW - Bank: 502797 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 
+[22-07-2019 04:35:01 AM] Jason Smith has edited Pauly Zhu(76561198170373903) Stats! OLD - Bank: 478452 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 5
+[22-07-2019 04:35:01 AM] Jason Smith has edited Pauly Zhu(76561198170373903) Stats! NEW - Bank: 478452 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 
+[22-07-2019 04:34:54 AM] Jason Smith has edited [NATO] Sgt. J. Luckely(76561198123473506) Stats! OLD - Bank: 2373105 | Cash: 28081 | Medic: 5 | Cop: 10 | Admin: 5
+[22-07-2019 04:34:54 AM] Jason Smith has edited [NATO] Sgt. J. Luckely(76561198123473506) Stats! NEW - Bank: 2373105 | Cash: 28081 | Medic: 5 | Cop: 10 | Admin: 
+[22-07-2019 04:34:47 AM] Jason Smith has edited [NATO] Col. K. Jarino(76561198316812270) Stats! OLD - Bank: 1067820 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 0
+[22-07-2019 04:34:47 AM] Jason Smith has edited [NATO] Col. K. Jarino(76561198316812270) Stats! NEW - Bank: 1067820 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 
+[22-07-2019 04:26:17 AM] John Silver has edited mike zhu(76561198162183930) Stats! OLD - Bank: 49339 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 0
+[22-07-2019 04:26:17 AM] John Silver has edited mike zhu(76561198162183930) Stats! NEW - Bank: 649339 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 
+[22-07-2019 04:20:42 AM] Alek Belokov has edited Fredrick Wolf [UN](76561198263066637) Stats! OLD - Bank: 61214 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 04:20:42 AM] Alek Belokov has edited Fredrick Wolf [UN](76561198263066637) Stats! NEW - Bank: 61214 | Cash: 0 | Medic: 1 | Cop: 0 | Admin: 
+<b>[22-07-2019 04:07:33 AM] Haywood has edited Haywood Jarino(76561198093375356) Stats! OLD - Bank: 6994357 | Cash: 45000 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 04:07:33 AM] Haywood has edited Haywood Jarino(76561198093375356) Stats! NEW - Bank: 6994357 | Cash: 45000 | Medic: 5 | Cop: 10 | Admin: 5</b>
+[22-07-2019 03:51:43 AM] Ben Jarino has edited Adam Sykes(76561198260203395) Stats! OLD - Bank: 48000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 03:51:43 AM] Ben Jarino has edited Adam Sykes(76561198260203395) Stats! NEW - Bank: 598000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[Monday 22nd of July 2019 03:38:58 AM] John Silver has Issued Callum Musk(76561198874228425) 10 Warning Points. Reason: rdm
+<b>[22-07-2019 03:37:43 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 78064 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 03:37:43 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 95000 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 5</b>
+[22-07-2019 03:32:06 AM] Chriss James has edited Caleb Trammell(76561198114635313) Stats! OLD - Bank: 49623 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 03:32:06 AM] Chriss James has edited Caleb Trammell(76561198114635313) Stats! NEW - Bank: 149623 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 
+[22-07-2019 03:31:31 AM] Jason Smith has edited Bohn Borrester(76561198282014773) Stats! OLD - Bank: 75102 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 03:31:31 AM] Jason Smith has edited Bohn Borrester(76561198282014773) Stats! NEW - Bank: 75102 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 
+[22-07-2019 03:21:14 AM] John Silver has edited [TMP] Pvt V. Paris(76561198185024631) Stats! OLD - Bank: 83146 | Cash: 4503 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 03:21:14 AM] John Silver has edited [TMP] Pvt V. Paris(76561198185024631) Stats! NEW - Bank: 83146 | Cash: 4503 | Medic: 0 | Cop: 1 | Admin: 
+[22-07-2019 03:12:21 AM] Chriss James has edited Jacob Speezy(76561198427415147) Stats! OLD - Bank: 1324528 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 03:12:21 AM] Chriss James has edited Jacob Speezy(76561198427415147) Stats! NEW - Bank: 1324528 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 
+[Monday 22nd of July 2019 03:12:06 AM] John Silver has Issued Abu Ali ALShishani(76561198336843149) 10 Warning Points. Reason: RDM at check point 
+[22-07-2019 02:59:33 AM] Ben Jarino has edited Drakoy Logas(76561198039231374) Stats! OLD - Bank: 1491946 | Cash: 35000 | Medic: 5 | Cop: 5 | Admin: 0
+[22-07-2019 02:59:33 AM] Ben Jarino has edited Drakoy Logas(76561198039231374) Stats! NEW - Bank: 2241946 | Cash: 35000 | Medic: 5 | Cop: 5 | Admin: 0
+[22-07-2019 02:52:48 AM] Jason Smith has edited [TMP]Cpl B. Anderson(76561198322501762) Stats! OLD - Bank: 135757 | Cash: 0 | Medic: 0 | Cop: 7 | Admin: 0
+[22-07-2019 02:52:48 AM] Jason Smith has edited [TMP]Cpl B. Anderson(76561198322501762) Stats! NEW - Bank: 135757 | Cash: 0 | Medic: 0 | Cop: 7 | Admin: 
+[22-07-2019 02:48:24 AM] Jason Smith has edited [TMP]Cpl B. Anderson(76561198322501762) Stats! OLD - Bank: 135757 | Cash: 0 | Medic: 0 | Cop: 3 | Admin: 0
+[22-07-2019 02:48:24 AM] Jason Smith has edited [TMP]Cpl B. Anderson(76561198322501762) Stats! NEW - Bank: 135757 | Cash: 0 | Medic: 0 | Cop: 7 | Admin: 
+[22-07-2019 02:33:49 AM] Jason Smith has edited [TMP] PVT S. Duckle(76561198044050647) Stats! OLD - Bank: 79833 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 02:33:49 AM] Jason Smith has edited [TMP] PVT S. Duckle(76561198044050647) Stats! NEW - Bank: 79833 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 
+[22-07-2019 02:29:11 AM] John Silver has edited [NATO] Pfc. R. DeYoung(76561198109351716) Stats! OLD - Bank: 123008 | Cash: 500 | Medic: 0 | Cop: 2 | Admin: 0
+[22-07-2019 02:29:11 AM] John Silver has edited [NATO] Pfc. R. DeYoung(76561198109351716) Stats! NEW - Bank: 123008 | Cash: 500 | Medic: 0 | Cop: 2 | Admin: 
+[22-07-2019 02:24:34 AM] John Silver has edited Zachary Woods(76561198183391637) Stats! OLD - Bank: 894188 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 02:24:34 AM] John Silver has edited Zachary Woods(76561198183391637) Stats! NEW - Bank: 944188 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 
+[22-07-2019 02:22:39 AM] John Silver has edited [TMP] Pvt.J.Arrow(76561198082920294) Stats! OLD - Bank: 30137 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 02:22:39 AM] John Silver has edited [TMP] Pvt.J.Arrow(76561198082920294) Stats! NEW - Bank: 30137 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 
+[22-07-2019 02:22:26 AM] John Silver has edited Ace Booth(76561198041001394) Stats! OLD - Bank: 83250 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 1
+[22-07-2019 02:22:26 AM] John Silver has edited Ace Booth(76561198041001394) Stats! NEW - Bank: 83250 | Cash: 0 | Medic: 5 | Cop: 1 | Admin: 
+[22-07-2019 02:19:26 AM] John Silver has edited Fox Kincaid(76561198047636834) Stats! OLD - Bank: 235397 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 02:19:26 AM] John Silver has edited Fox Kincaid(76561198047636834) Stats! NEW - Bank: 385397 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 
+<b>[22-07-2019 02:15:13 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 5080 | Cash: 10000 | Medic: 0 | Cop: 10 | Admin: 5</b>
+<b>[22-07-2019 02:15:13 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 5080 | Cash: 150000 | Medic: 0 | Cop: 10 | Admin: 5</b>
+[22-07-2019 02:15:08 AM] John Silver has edited Ryan Jay(76561198107565708) Stats! OLD - Bank: 622911 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 02:15:08 AM] John Silver has edited Ryan Jay(76561198107565708) Stats! NEW - Bank: 722911 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 
+[22-07-2019 02:14:31 AM] Jason Smith has edited [nato] cpl. d. sosa(76561198882285494) Stats! OLD - Bank: 523118 | Cash: 10000 | Medic: 0 | Cop: 5 | Admin: 0
+[22-07-2019 02:14:31 AM] Jason Smith has edited [nato] cpl. d. sosa(76561198882285494) Stats! NEW - Bank: 523118 | Cash: 10000 | Medic: 0 | Cop: 10 | Admin: 
+[22-07-2019 02:13:59 AM] John Silver has edited [TMP] Sgt J. Topper(76561198119537132) Stats! OLD - Bank: 130748 | Cash: 965 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 02:13:59 AM] John Silver has edited [TMP] Sgt J. Topper(76561198119537132) Stats! NEW - Bank: 130748 | Cash: 965 | Medic: 0 | Cop: 3 | Admin: 
+[22-07-2019 02:09:13 AM] John Silver has edited Bavid Daked(76561198365130873) Stats! OLD - Bank: 14721 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 02:09:13 AM] John Silver has edited Bavid Daked(76561198365130873) Stats! NEW - Bank: 14721 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 
+[22-07-2019 02:04:40 AM] John Silver has edited Ryan Jay(76561198107565708) Stats! OLD - Bank: 422911 | Cash: 13460 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 02:04:40 AM] John Silver has edited Ryan Jay(76561198107565708) Stats! NEW - Bank: 622911 | Cash: 13460 | Medic: 0 | Cop: 0 | Admin: 
+[22-07-2019 01:56:57 AM] John Silver has edited Henry Thompson(76561198352664640) Stats! OLD - Bank: 44068 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 01:56:57 AM] John Silver has edited Henry Thompson(76561198352664640) Stats! NEW - Bank: 44068 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 
+<b>[22-07-2019 01:43:47 AM] John Silver has edited John Silver(76561198119258603) Stats! OLD - Bank: 364865 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 4</b>
+<b>[22-07-2019 01:43:47 AM] John Silver has edited John Silver(76561198119258603) Stats! NEW - Bank: 864865 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: </b>
+[22-07-2019 01:41:46 AM] John Silver has edited Aaron Ramsey [UN](76561198240634868) Stats! OLD - Bank: 80000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 01:41:46 AM] John Silver has edited Aaron Ramsey [UN](76561198240634868) Stats! NEW - Bank: 80000 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 
+[22-07-2019 01:40:43 AM] John Silver has edited Ryan Jay(76561198107565708) Stats! OLD - Bank: 486661 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 01:40:43 AM] John Silver has edited Ryan Jay(76561198107565708) Stats! NEW - Bank: 586661 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 
+[22-07-2019 01:31:38 AM] Alek Belokov has edited [NATO] Col. K. Jarino(76561198316812270) Stats! OLD - Bank: 848458 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 0
+[22-07-2019 01:31:38 AM] Alek Belokov has edited [NATO] Col. K. Jarino(76561198316812270) Stats! NEW - Bank: 1048458 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 
+[Monday 22nd of July 2019 01:31:18 AM] Alek Belokov has added a note to [NATO] Col. K. Jarino(76561198316812270) Account!
+[22-07-2019 01:31:12 AM] John Silver has edited Johny hunter(76561198237935076) Stats! OLD - Bank: 1812464 | Cash: 9522 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 01:31:12 AM] John Silver has edited Johny hunter(76561198237935076) Stats! NEW - Bank: 2012464 | Cash: 9522 | Medic: 0 | Cop: 0 | Admin: 
+<b>[22-07-2019 01:29:53 AM] Alek Belokov has edited [NATO] Cpl. A. Belokov(76561198075021625) Stats! OLD - Bank: 1494037 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 4</b>
+<b>[22-07-2019 01:29:53 AM] Alek Belokov has edited [NATO] Cpl. A. Belokov(76561198075021625) Stats! NEW - Bank: 1494037 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: </b>
+[22-07-2019 01:29:36 AM] Alek Belokov has edited [NATO] Cpl. J Reddington(76561198404773914) Stats! OLD - Bank: 320188 | Cash: 2250 | Medic: 0 | Cop: 5 | Admin: 3
+[22-07-2019 01:29:36 AM] Alek Belokov has edited [NATO] Cpl. J Reddington(76561198404773914) Stats! NEW - Bank: 320188 | Cash: 2250 | Medic: 0 | Cop: 10 | Admin: 
+[22-07-2019 01:29:17 AM] Alek Belokov has edited [NATO] Pfc. J. Del Rey(76561198310025287) Stats! OLD - Bank: 274579 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 0
+[22-07-2019 01:29:17 AM] Alek Belokov has edited [NATO] Pfc. J. Del Rey(76561198310025287) Stats! NEW - Bank: 274579 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 
+[22-07-2019 01:29:07 AM] Alek Belokov has edited [NATO] J. Trapstar(76561198936519057) Stats! OLD - Bank: 84431 | Cash: 13000 | Medic: 0 | Cop: 5 | Admin: 0
+[22-07-2019 01:29:07 AM] Alek Belokov has edited [NATO] J. Trapstar(76561198936519057) Stats! NEW - Bank: 84431 | Cash: 13000 | Medic: 0 | Cop: 10 | Admin: 
+[22-07-2019 01:03:25 AM] John Silver has edited Ryan Jay(76561198107565708) Stats! OLD - Bank: 479161 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 01:03:25 AM] John Silver has edited Ryan Jay(76561198107565708) Stats! NEW - Bank: 579161 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 
+[22-07-2019 12:59:27 AM] John Silver has edited [NATO] Cpl. T. Vercetti(76561198072164059) Stats! OLD - Bank: 1770 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 1
+[22-07-2019 12:59:27 AM] John Silver has edited [NATO] Cpl. T. Vercetti(76561198072164059) Stats! NEW - Bank: 101770 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 
+[22-07-2019 12:58:34 AM] Dave Coleman has edited Mitchell Parker(76561198040157483) Stats! OLD - Bank: 72678 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 12:58:34 AM] Dave Coleman has edited Mitchell Parker(76561198040157483) Stats! NEW - Bank: 122678 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 12:44:02 AM] Amber Freeman has edited Jack wills(76561198138641838) Stats! OLD - Bank: 383989 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 0
+[22-07-2019 12:44:02 AM] Amber Freeman has edited Jack wills(76561198138641838) Stats! NEW - Bank: 383989 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 12:40:28 AM] Dave Coleman has edited Roman Clancy(76561198273645911) Stats! OLD - Bank: 159388 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 0
+[22-07-2019 12:40:28 AM] Dave Coleman has edited Roman Clancy(76561198273645911) Stats! NEW - Bank: 219388 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 0
+[22-07-2019 12:34:39 AM] Dave Coleman has edited Lewis Gunna(76561198404927301) Stats! OLD - Bank: 96921 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 12:34:39 AM] Dave Coleman has edited Lewis Gunna(76561198404927301) Stats! NEW - Bank: 296921 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 12:30:36 AM] Dave Coleman has edited Lewis Gunna(76561198404927301) Stats! OLD - Bank: 89721 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[22-07-2019 12:30:36 AM] Dave Coleman has edited Lewis Gunna(76561198404927301) Stats! NEW - Bank: 289721 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[Monday 22nd of July 2019 12:27:37 AM] Jason Smith has Issued [TMP] Pfc. C. Valentino(76561198879109187) 10 Warning Points. Reason: RDM - told to by dave
+<b>[22-07-2019 12:26:22 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! OLD - Bank: 65970 | Cash: 50000 | Medic: 0 | Cop: 5 | Admin: 5</b>
+<b>[22-07-2019 12:26:22 AM] brandon has edited [NATO] B. Trapstar(76561198293578146) Stats! NEW - Bank: 65970 | Cash: 50000 | Medic: 0 | Cop: 10 | Admin: 5</b>
+[22-07-2019 12:12:45 AM] Dave Coleman has edited Drakoy Logas(76561198039231374) Stats! OLD - Bank: 2238750 | Cash: 0 | Medic: 5 | Cop: 5 | Admin: 0
+[22-07-2019 12:12:45 AM] Dave Coleman has edited Drakoy Logas(76561198039231374) Stats! NEW - Bank: 4448750 | Cash: 0 | Medic: 5 | Cop: 5 | Admin: 0
+[21-07-2019 11:49:44 PM] Dave Coleman has edited Lewis Gunna(76561198404927301) Stats! OLD - Bank: 289371 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[21-07-2019 11:49:44 PM] Dave Coleman has edited Lewis Gunna(76561198404927301) Stats! NEW - Bank: 389371 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[21-07-2019 11:13:55 PM] Jason Smith has edited Tree Ambushe(76561198353127618) Stats! OLD - Bank: 313461 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 0
+[21-07-2019 11:13:55 PM] Jason Smith has edited Tree Ambushe(76561198353127618) Stats! NEW - Bank: 313461 | Cash: 0 | Medic: 5 | Cop: 2 | Admin: 
+[21-07-2019 11:05:34 PM] Alek Belokov has edited [NATO] Pfc. J. Del Rey(76561198310025287) Stats! OLD - Bank: 439539 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 0
+[21-07-2019 11:05:34 PM] Alek Belokov has edited [NATO] Pfc. J. Del Rey(76561198310025287) Stats! NEW - Bank: 439539 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 
+[21-07-2019 11:04:32 PM] Jason Smith has edited Braid Rosso(76561198317726585) Stats! OLD - Bank: 148230 | Cash: 0 | Medic:  | Cop:  | Admin: 2
+[21-07-2019 11:04:32 PM] Jason Smith has edited Braid Rosso(76561198317726585) Stats! NEW - Bank: 148230 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 
+[21-07-2019 11:03:30 PM] Alek Belokov has edited [NATO] J. Trapstar(76561198936519057) Stats! OLD - Bank: 0 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 0
+[21-07-2019 11:03:30 PM] Alek Belokov has edited [NATO] J. Trapstar(76561198936519057) Stats! NEW - Bank: 0 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 
+[21-07-2019 10:51:34 PM] Jason Smith has edited [TMP] Pfc.A.Hajaar(76561198299465582) Stats! OLD - Bank: 745560 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[21-07-2019 10:51:34 PM] Jason Smith has edited [TMP] Pfc.A.Hajaar(76561198299465582) Stats! NEW - Bank: 745560 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 
+[21-07-2019 10:41:56 PM] Alek Belokov has edited [NATO] J. Trapstar(76561198936519057) Stats! OLD - Bank: 80000 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 0
+[21-07-2019 10:41:56 PM] Alek Belokov has edited [NATO] J. Trapstar(76561198936519057) Stats! NEW - Bank: 80000 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 
+[21-07-2019 10:39:39 PM] pauly has edited [nato] cpl. d. sosa(76561198882285494) Stats! OLD - Bank: 434305 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 0
+[21-07-2019 10:39:39 PM] pauly has edited [nato] cpl. d. sosa(76561198882285494) Stats! NEW - Bank: 584305 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 0
+[21-07-2019 10:38:58 PM] Alek Belokov has edited Trapstar Joe(76561198936519057) Stats! OLD - Bank: 80000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[21-07-2019 10:38:58 PM] Alek Belokov has edited Trapstar Joe(76561198936519057) Stats! NEW - Bank: 80000 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 
+[21-07-2019 10:37:57 PM] pauly has edited Orange Lucozade(76561198215778809) Stats! OLD - Bank: 477710 | Cash: 0 | Medic: 1 | Cop: 0 | Admin: 0
+[21-07-2019 10:37:57 PM] pauly has edited Orange Lucozade(76561198215778809) Stats! NEW - Bank: 777710 | Cash: 0 | Medic: 1 | Cop: 0 | Admin: 0
+[21-07-2019 10:27:19 PM] Dave Coleman has edited Mistah Woo(76561198399102334) Stats! OLD - Bank: 30050 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[21-07-2019 10:27:19 PM] Dave Coleman has edited Mistah Woo(76561198399102334) Stats! NEW - Bank: 30050 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 0
+[21-07-2019 10:24:26 PM] Dave Coleman has edited Jinje Lastname(76561198271800949) Stats! OLD - Bank: 1134 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[21-07-2019 10:24:26 PM] Dave Coleman has edited Jinje Lastname(76561198271800949) Stats! NEW - Bank: 36134 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[21-07-2019 10:19:33 PM] Alek Belokov has edited Orange Lucozade(76561198215778809) Stats! OLD - Bank: 477710 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[21-07-2019 10:19:33 PM] Alek Belokov has edited Orange Lucozade(76561198215778809) Stats! NEW - Bank: 477710 | Cash: 0 | Medic: 1 | Cop: 0 | Admin: 
+[21-07-2019 10:17:35 PM] Jason Smith has edited Noah Garrison(76561198070682574) Stats! OLD - Bank: 177456 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[21-07-2019 10:17:35 PM] Jason Smith has edited Noah Garrison(76561198070682574) Stats! NEW - Bank: 177456 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 
+[Sunday 21st of July 2019 10:17:21 PM] John Silver has Issued Jake Woods(76561198314986618) 15 Warning Points. Reason: RDM
+[21-07-2019 10:17:17 PM] Jason Smith has edited Hugh Rock(76561198123409295) Stats! OLD - Bank: 68775 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[21-07-2019 10:17:17 PM] Jason Smith has edited Hugh Rock(76561198123409295) Stats! NEW - Bank: 68775 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 
+[Sunday 21st of July 2019 10:17:10 PM] Jason Smith has added a note to Hugh Rock(76561198123409295) Account!
+[21-07-2019 10:13:32 PM] Dave Coleman has edited Jacob Speezy(76561198427415147) Stats! OLD - Bank: 266291 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[21-07-2019 10:13:32 PM] Dave Coleman has edited Jacob Speezy(76561198427415147) Stats! NEW - Bank: 1266291 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[21-07-2019 10:02:40 PM] Dave Coleman has edited Frank Rigatoni(76561198119500334) Stats! OLD - Bank: 116359 | Cash: 22404 | Medic: 0 | Cop: 0 | Admin: 0
+[21-07-2019 10:02:40 PM] Dave Coleman has edited Frank Rigatoni(76561198119500334) Stats! NEW - Bank: 366359 | Cash: 22404 | Medic: 0 | Cop: 0 | Admin: 0
+[21-07-2019 10:01:43 PM] Jason Smith has edited Bryce Anderson(76561198322501762) Stats! OLD - Bank: 80000 | Cash: 0 | Medic: 0 | Cop: 4 | Admin: 0
+[21-07-2019 10:01:43 PM] Jason Smith has edited Bryce Anderson(76561198322501762) Stats! NEW - Bank: 80000 | Cash: 0 | Medic: 0 | Cop: 3 | Admin: 
+[21-07-2019 09:58:25 PM] Dave Coleman has edited Bryce Anderson(76561198322501762) Stats! OLD - Bank: 80000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[21-07-2019 09:58:25 PM] Dave Coleman has edited Bryce Anderson(76561198322501762) Stats! NEW - Bank: 80000 | Cash: 0 | Medic: 0 | Cop: 4 | Admin: 0
+[Sunday 21st of July 2019 09:56:59 PM] Dave Coleman has deleted Bryce Anderson(76561198978572616) Account!
+[21-07-2019 09:47:35 PM] TylerChampion has edited Centurion Galio(76561198050843005) Stats! OLD - Bank: 994325 | Cash: 2250 | Medic: 0 | Cop: 0 | Admin: 0
+[21-07-2019 09:47:35 PM] TylerChampion has edited Centurion Galio(76561198050843005) Stats! NEW - Bank: 994325 | Cash: 2250 | Medic: 5 | Cop: 0 | Admin: 
+[Sunday 21st of July 2019 09:40:20 PM] Jason Smith has Issued Debug Desmond(76561198352825118) 5 Warning Points. Reason: RDM
+<b>[21-07-2019 09:30:02 PM] John Silver has edited John Silver(76561198119258603) Stats! OLD - Bank: 107365 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 4</b>
+<b>[21-07-2019 09:30:02 PM] John Silver has edited John Silver(76561198119258603) Stats! NEW - Bank: 607365 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: </b>
+<b>[21-07-2019 09:29:26 PM] John Silver has edited John Silver(76561198119258603) Stats! OLD - Bank: 107315 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 4</b>
+<b>[21-07-2019 09:29:26 PM] John Silver has edited John Silver(76561198119258603) Stats! NEW - Bank: 107365 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: </b>
+[21-07-2019 09:26:13 PM] TylerChampion has edited [TMP] Pvt. Y. Clown(76561198062372769) Stats! OLD - Bank: 80000 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[21-07-2019 09:26:13 PM] TylerChampion has edited [TMP] Pvt. Y. Clown(76561198062372769) Stats! NEW - Bank: 80000 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 
+<b>[21-07-2019 09:13:35 PM] Braid Rosso has edited Braid Rosso(76561198317726585) Stats! OLD - Bank: 43730 | Cash: 650 | Medic: 5 | Cop: 0 | Admin: 2</b>
+<b>[21-07-2019 09:13:35 PM] Braid Rosso has edited Braid Rosso(76561198317726585) Stats! NEW - Bank: 43730 | Cash: 650 | Medic:  | Cop:  | Admin: </b>
+[21-07-2019 08:52:12 PM] Jason Smith has edited John Luckely(76561198123473506) Stats! OLD - Bank: 2480350 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 5
+[21-07-2019 08:52:12 PM] Jason Smith has edited John Luckely(76561198123473506) Stats! NEW - Bank: 2480350 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 
+[21-07-2019 08:48:59 PM] brandon has edited [TMP] Lt. J. Smith(76561198140151368) Stats! OLD - Bank: 750950 | Cash: 3700 | Medic: 0 | Cop: 10 | Admin: 0
+[21-07-2019 08:48:59 PM] brandon has edited [TMP] Lt. J. Smith(76561198140151368) Stats! NEW - Bank: 750950 | Cash: 3700 | Medic: 0 | Cop: 10 | Admin: 3
+[21-07-2019 07:58:28 PM] Amber Freeman has edited Ace Booth(76561198041001394) Stats! OLD - Bank: 83250 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 0
+[21-07-2019 07:58:28 PM] Amber Freeman has edited Ace Booth(76561198041001394) Stats! NEW - Bank: 83250 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 1
+[21-07-2019 07:58:20 PM] Amber Freeman has edited [TMP] SSgt. A. Authento(76561198143613231) Stats! OLD - Bank: 48654 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 0
+[21-07-2019 07:58:20 PM] Amber Freeman has edited [TMP] SSgt. A. Authento(76561198143613231) Stats! NEW - Bank: 48654 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 1
+[21-07-2019 07:58:10 PM] Amber Freeman has edited [TMP] Cpl. R. Hajaar(76561198369168722) Stats! OLD - Bank: 368625 | Cash: 0 | Medic: 0 | Cop: 3 | Admin: 0
+[21-07-2019 07:58:10 PM] Amber Freeman has edited [TMP] Cpl. R. Hajaar(76561198369168722) Stats! NEW - Bank: 368625 | Cash: 0 | Medic: 0 | Cop: 3 | Admin: 1
+[21-07-2019 07:57:59 PM] Amber Freeman has edited Markatov Shooter(76561198072164059) Stats! OLD - Bank: 32350 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 0
+[21-07-2019 07:57:59 PM] Amber Freeman has edited Markatov Shooter(76561198072164059) Stats! NEW - Bank: 32350 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 1
+[21-07-2019 07:57:36 PM] Amber Freeman has edited Braid Rosso(76561198317726585) Stats! OLD - Bank: 43730 | Cash: 650 | Medic: 5 | Cop: 0 | Admin: 0
+[21-07-2019 07:57:36 PM] Amber Freeman has edited Braid Rosso(76561198317726585) Stats! NEW - Bank: 43730 | Cash: 650 | Medic: 5 | Cop: 0 | Admin: 2
+[21-07-2019 07:57:02 PM] Amber Freeman has edited [TMP] Pfc. K. Zhu(76561198833485266) Stats! OLD - Bank: 224368 | Cash: 0 | Medic: 0 | Cop: 4 | Admin: 0
+[21-07-2019 07:57:02 PM] Amber Freeman has edited [TMP] Pfc. K. Zhu(76561198833485266) Stats! NEW - Bank: 224368 | Cash: 0 | Medic: 0 | Cop: 4 | Admin: 2
+[21-07-2019 07:55:31 PM] Amber Freeman has edited John Silver(76561198119258603) Stats! OLD - Bank: 255210 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 0
+[21-07-2019 07:55:31 PM] Amber Freeman has edited John Silver(76561198119258603) Stats! NEW - Bank: 255210 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 4
+[21-07-2019 07:55:09 PM] Amber Freeman has edited [TMP] Pvt. A. Sanderson(76561198310430800) Stats! OLD - Bank: 324958 | Cash: 29586 | Medic: 0 | Cop: 1 | Admin: 0
+[21-07-2019 07:55:09 PM] Amber Freeman has edited [TMP] Pvt. A. Sanderson(76561198310430800) Stats! NEW - Bank: 324958 | Cash: 29586 | Medic: 0 | Cop: 1 | Admin: 4
+[21-07-2019 07:54:21 PM] pauly has edited Tyler Champion(76561197960560932) Stats! OLD - Bank: 24855 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[21-07-2019 07:54:21 PM] pauly has edited Tyler Champion(76561197960560932) Stats! NEW - Bank: 24855 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 3
+[21-07-2019 07:52:29 PM] Amber Freeman has edited Matt Jonzie(76561198326773085) Stats! OLD - Bank: 52119 | Cash: 5750 | Medic: 5 | Cop: 5 | Admin: 1
+[21-07-2019 07:52:29 PM] Amber Freeman has edited Matt Jonzie(76561198326773085) Stats! NEW - Bank: 52119 | Cash: 5750 | Medic: 5 | Cop: 5 | Admin: 0
+[21-07-2019 07:52:22 PM] Amber Freeman has edited [nato] cpl. d. sosa(76561198882285494) Stats! OLD - Bank: 379110 | Cash: 1860 | Medic: 0 | Cop: 5 | Admin: 1
+[21-07-2019 07:52:22 PM] Amber Freeman has edited [nato] cpl. d. sosa(76561198882285494) Stats! NEW - Bank: 379110 | Cash: 1860 | Medic: 0 | Cop: 5 | Admin: 0
+[21-07-2019 07:52:16 PM] Amber Freeman has edited Lucio Panini(76561198009978959) Stats! OLD - Bank: 500000 | Cash: 0 | Medic: 5 | Cop: 7 | Admin: 1
+[21-07-2019 07:52:16 PM] Amber Freeman has edited Lucio Panini(76561198009978959) Stats! NEW - Bank: 500000 | Cash: 0 | Medic: 5 | Cop: 7 | Admin: 0
+[21-07-2019 07:52:03 PM] Amber Freeman has edited [NATO] Haywood(76561198093375356) Stats! OLD - Bank: 7594357 | Cash: 45000 | Medic: 0 | Cop: 10 | Admin: 2
+[21-07-2019 07:52:03 PM] Amber Freeman has edited [NATO] Haywood(76561198093375356) Stats! NEW - Bank: 7594357 | Cash: 45000 | Medic: 0 | Cop: 10 | Admin: 5
+[21-07-2019 07:51:49 PM] Amber Freeman has edited Dave Coleman(76561198180984321) Stats! OLD - Bank: 2064177 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 2
+[21-07-2019 07:51:49 PM] Amber Freeman has edited Dave Coleman(76561198180984321) Stats! NEW - Bank: 2064177 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 5
+[21-07-2019 07:51:42 PM] Amber Freeman has edited Ben Jarino(76561198208080315) Stats! OLD - Bank: 4209417 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 2
+[21-07-2019 07:51:42 PM] Amber Freeman has edited Ben Jarino(76561198208080315) Stats! NEW - Bank: 4209417 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 5
+[21-07-2019 07:51:31 PM] Amber Freeman has edited John Luckely(76561198123473506) Stats! OLD - Bank: 2480350 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 2
+[21-07-2019 07:51:31 PM] Amber Freeman has edited John Luckely(76561198123473506) Stats! NEW - Bank: 2480350 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 5
+[21-07-2019 07:50:12 PM] Amber Freeman has edited Bryce Anderson(76561198978572616) Stats! OLD - Bank: 31187 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 2
+[21-07-2019 07:50:12 PM] Amber Freeman has edited Bryce Anderson(76561198978572616) Stats! NEW - Bank: 31187 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 0
+[21-07-2019 07:49:46 PM] Amber Freeman has edited [TMP] Jordan Hansen(76561198326967896) Stats! OLD - Bank: 7298748 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 2
+[21-07-2019 07:49:46 PM] Amber Freeman has edited [TMP] Jordan Hansen(76561198326967896) Stats! NEW - Bank: 7298748 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 5
+[21-07-2019 07:36:38 PM] pauly has edited [NATO] Sgt. A. Freeman(76561198201442377) Stats! OLD - Bank: 165623 | Cash: 0 | Medic: 0 | Cop: 4 | Admin: 2
+[21-07-2019 07:36:38 PM] pauly has edited [NATO] Sgt. A. Freeman(76561198201442377) Stats! NEW - Bank: 165623 | Cash: 0 | Medic: 0 | Cop: 4 | Admin: 5
+[21-07-2019 07:33:55 PM] pauly has edited Jacob Speezy(76561198427415147) Stats! OLD - Bank: 101339 | Cash: 654 | Medic: 0 | Cop: 0 | Admin: 0
+[21-07-2019 07:33:55 PM] pauly has edited Jacob Speezy(76561198427415147) Stats! NEW - Bank: 351339 | Cash: 654 | Medic: 0 | Cop: 0 | Admin: 0
+[21-07-2019 07:03:38 PM] pauly has edited Oli Kay(76561198113579429) Stats! OLD - Bank: 321660 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[21-07-2019 07:03:38 PM] pauly has edited Oli Kay(76561198113579429) Stats! NEW - Bank: 321660 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 0
+[21-07-2019 06:25:25 PM] pauly has edited MKaden(76561198138705499) Stats! OLD - Bank: 452900 | Cash: 56 | Medic: 0 | Cop: 0 | Admin: 0
+[21-07-2019 06:25:25 PM] pauly has edited MKaden(76561198138705499) Stats! NEW - Bank: 602900 | Cash: 56 | Medic: 0 | Cop: 0 | Admin: 0
+<b>[21-07-2019 06:23:01 PM] Alek Belokov has edited [NATO] Cpl. A. Belokov(76561198075021625) Stats! OLD - Bank: 684511 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 4</b>
+<b>[21-07-2019 06:23:01 PM] Alek Belokov has edited [NATO] Cpl. A. Belokov(76561198075021625) Stats! NEW - Bank: 1684511 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: </b>
+<b>[21-07-2019 06:22:42 PM] Alek Belokov has edited [NATO] Cpl. A. Belokov(76561198075021625) Stats! OLD - Bank: 684511 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 4</b>
+<b>[21-07-2019 06:22:42 PM] Alek Belokov has edited [NATO] Cpl. A. Belokov(76561198075021625) Stats! NEW - Bank: 684511 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: </b>
+[21-07-2019 06:11:15 PM] pauly has edited Brandon Buckley(76561197971225036) Stats! OLD - Bank: 142494 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[21-07-2019 06:11:15 PM] pauly has edited Brandon Buckley(76561197971225036) Stats! NEW - Bank: 292494 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[21-07-2019 06:08:23 PM] brandon has edited [NATO] Cpl. J Reddington(76561198404773914) Stats! OLD - Bank: 305088 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 0
+[21-07-2019 06:08:23 PM] brandon has edited [NATO] Cpl. J Reddington(76561198404773914) Stats! NEW - Bank: 305088 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 3
+[Sunday 21st of July 2019 06:07:28 PM] Alek Belokov has added a note to [NATO] Col. K. Jarino(76561198316812270) Account!
+[21-07-2019 06:07:01 PM] Alek Belokov has edited [NATO] Col. K. Jarino(76561198316812270) Stats! OLD - Bank: 804953 | Cash: 3300 | Medic: 0 | Cop: 10 | Admin: 0
+[21-07-2019 06:07:01 PM] Alek Belokov has edited [NATO] Col. K. Jarino(76561198316812270) Stats! NEW - Bank: 1004953 | Cash: 3300 | Medic: 0 | Cop: 10 | Admin: 
+[21-07-2019 06:05:20 PM] pauly has edited Sam Newey(76561198258868284) Stats! OLD - Bank: 99623 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[21-07-2019 06:05:20 PM] pauly has edited Sam Newey(76561198258868284) Stats! NEW - Bank: 249623 | Cash: 0 | Medic: 0 | Cop: 0 | Admin: 0
+[Sunday 21st of July 2019 06:05:06 PM] pauly has added a note to Sam Newey(76561198258868284) Account!
+[21-07-2019 06:02:08 PM] Alek Belokov has edited [NATO] Pvt. J. Del Rey(76561198310025287) Stats! OLD - Bank: 370020 | Cash: 0 | Medic: 0 | Cop: 1 | Admin: 0
+[21-07-2019 06:02:08 PM] Alek Belokov has edited [NATO] Pvt. J. Del Rey(76561198310025287) Stats! NEW - Bank: 370020 | Cash: 0 | Medic: 0 | Cop: 2 | Admin: 
+[Sunday 21st of July 2019 05:43:40 PM] Alek Belokov has added a note to Andrew Feuerstein(76561198264345672) Account!
+[21-07-2019 05:43:01 PM] Alek Belokov has edited Andrew Feuerstein(76561198264345672) Stats! OLD - Bank: 2281470 | Cash: 2040 | Medic: 0 | Cop: 0 | Admin: 0
+[21-07-2019 05:43:01 PM] Alek Belokov has edited Andrew Feuerstein(76561198264345672) Stats! NEW - Bank: 2781470 | Cash: 2040 | Medic: 0 | Cop: 0 | Admin: 
+<b>[21-07-2019 05:19:48 PM] brandon has edited trapstar brandon(76561198293578146) Stats! OLD - Bank: 127050 | Cash: 15000 | Medic: 0 | Cop: 5 | Admin: 5</b>
+<b>[21-07-2019 05:19:48 PM] brandon has edited trapstar brandon(76561198293578146) Stats! NEW - Bank: 127050 | Cash: 15000 | Medic: 0 | Cop: 5 | Admin: 4</b>
+[21-07-2019 05:19:34 PM] brandon has edited [NATO] Cpl. A. Belokov(76561198075021625) Stats! OLD - Bank: 684511 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 4
+[21-07-2019 05:19:34 PM] brandon has edited [NATO] Cpl. A. Belokov(76561198075021625) Stats! NEW - Bank: 684511 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 4
+[21-07-2019 05:15:26 PM] pauly has edited [NATO] Col. K. Jarino(76561198316812270) Stats! OLD - Bank: 886828 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 1
+[21-07-2019 05:15:26 PM] pauly has edited [NATO] Col. K. Jarino(76561198316812270) Stats! NEW - Bank: 886828 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 0
+[21-07-2019 05:15:16 PM] pauly has edited [NATO] Col. K. Jarino(76561198316812270) Stats! OLD - Bank: 886828 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 0
+[21-07-2019 05:15:16 PM] pauly has edited [NATO] Col. K. Jarino(76561198316812270) Stats! NEW - Bank: 886828 | Cash: 0 | Medic: 0 | Cop: 10 | Admin: 1
+[21-07-2019 05:12:34 PM] pauly has edited [NATO] Cpl. A. Belokov(76561198075021625) Stats! OLD - Bank: 684511 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 0
+[21-07-2019 05:12:34 PM] pauly has edited [NATO] Cpl. A. Belokov(76561198075021625) Stats! NEW - Bank: 684511 | Cash: 0 | Medic: 0 | Cop: 5 | Admin: 4
+<b>[21-07-2019 05:04:08 PM] pauly has edited Pauly Zhu(76561198170373903) Stats! OLD - Bank: 523902 | Cash: 0 | Medic: 5 | Cop: 0 | Admin: 5</b>
+<b>[21-07-2019 05:04:08 PM] pauly has edited Pauly Zhu(76561198170373903) Stats! NEW - Bank: 523902 | Cash: 0 | Medic: 5 | Cop: 10 | Admin: 5</b>
+﻿
